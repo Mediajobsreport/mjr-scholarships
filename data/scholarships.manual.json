@@ -1,107 +1,56 @@
 [
   {
-    "id": "bea-scholarships-2027-28",
-    "title": "Scholarships in Broadcasting & Electronic Media",
-    "provider": "Broadcast Education Association",
-    "programGroup": "media",
-    "categories": ["Radio & Podcasting", "Television & Video", "Digital Media", "Production & Multimedia"],
-    "award": "Multiple awards; more than $30,000 total",
-    "deadline": "2026-10-16",
-    "opens": null,
-    "educationLevels": ["College", "Graduate"],
-    "states": ["Nationwide"],
-    "institutionSpecific": false,
-    "institution": null,
-    "summary": "Annual scholarships for students pursuing broadcasting and electronic media at eligible BEA member institutions.",
-    "eligibility": "Applicants must meet BEA eligibility requirements and attend an eligible institution.",
-    "url": "https://beaweb.org/scholarships/",
-    "sourceUrl": "https://beaweb.org/scholarships/",
-    "verifiedOn": "2026-09-07",
-    "recurring": true,
-    "featured": true
+    "id":"bea-2027-28","title":"Scholarships in Broadcasting & Electronic Media","provider":"Broadcast Education Association","programGroup":"media","categories":["Radio & Podcasting","Television & Video","Digital Media","Production & Multimedia"],"award":"Multiple awards; more than $30,000 total","deadline":"2026-10-16","opens":null,"educationLevels":["College","Graduate"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"Annual scholarships supporting students pursuing broadcasting and electronic media.","eligibility":"Juniors, seniors, graduate students and eligible two-year transfer students attending BEA institutional members.","url":"https://beaweb.org/scholarships/","sourceUrl":"https://beaweb.org/scholarships/","verifiedOn":"2026-09-07","recurring":true,"featured":true
   },
   {
-    "id": "rtdna-scholarships-fellowships-2026",
-    "title": "RTDNA Scholarships & Fellowships",
-    "provider": "RTDNA Foundation",
-    "programGroup": "media",
-    "categories": ["Journalism & News", "Radio & Podcasting", "Television & Video", "Digital Media"],
-    "award": "13 scholarships and 3 fellowships; amounts vary",
-    "deadline": null,
-    "opens": null,
-    "educationLevels": ["College", "Graduate", "Early Career"],
-    "states": ["Nationwide"],
-    "institutionSpecific": false,
-    "institution": null,
-    "summary": "Financial awards for journalism students and early-career professionals pursuing electronic and digital journalism.",
-    "eligibility": "Eligibility varies by award; applicants may apply for only one RTDNA scholarship or fellowship per cycle.",
-    "url": "https://www.rtdna.org/scholarships-and-fellowships",
-    "sourceUrl": "https://www.rtdna.org/scholarships-and-fellowships",
-    "verifiedOn": "2026-09-07",
-    "recurring": true,
-    "featured": true
+    "id":"rtdna-2026","title":"RTDNA Scholarships & Fellowships","provider":"RTDNA Foundation","programGroup":"media","categories":["Journalism & News","Radio & Podcasting","Television & Video","Digital Media"],"award":"13 scholarships and 3 fellowships; amounts vary","deadline":"2026-10-22","opens":"2026-09-09","educationLevels":["College","Graduate","Early Career"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"Financial awards for journalism students and early-career professionals pursuing electronic and digital journalism.","eligibility":"Eligibility varies by award; applicants may apply for only one RTDNA opportunity per cycle.","url":"https://www.rtdna.org/scholarships-and-fellowships","sourceUrl":"https://www.rtdna.org/scholarships-and-fellowships","verifiedOn":"2026-09-07","recurring":true,"featured":true
   },
   {
-    "id": "mi-music-business-scholarship",
-    "title": "Musicians Foundation Music Business Scholarship",
-    "provider": "Musicians Institute",
-    "programGroup": "media",
-    "categories": ["Music Industry", "Advertising & Media Sales"],
-    "award": "$2,500 tuition credit",
-    "deadline": null,
-    "opens": null,
-    "educationLevels": ["College"],
-    "states": ["California"],
-    "institutionSpecific": true,
-    "institution": "Musicians Institute",
-    "summary": "Tuition scholarship supporting new or returning students in the Music Business associate degree program.",
-    "eligibility": "Open to eligible U.S. and international students enrolled in the Music Business A.S. program.",
-    "url": "https://www.mi.edu/admissions/scholarships/",
-    "sourceUrl": "https://www.mi.edu/admissions/scholarships/",
-    "verifiedOn": "2026-09-07",
-    "recurring": true,
-    "featured": false
+    "id":"mi-industry-scholarships","title":"Music Business, Audio and Production Scholarships","provider":"Musicians Institute","programGroup":"media","categories":["Music Industry","Production & Multimedia","Broadcast Engineering & Technology","Advertising & Media Sales"],"award":"Multiple tuition awards from $1,000–$2,500","deadline":null,"opens":null,"educationLevels":["College"],"states":["California"],"institutionSpecific":true,"institution":"Musicians Institute","summary":"Separate scholarships for music business, audio engineering, studio recording, artist production and live-event production students.","eligibility":"Eligible new or current Musicians Institute students; program and cycle requirements vary.","url":"https://www.mi.edu/admissions/scholarships/","sourceUrl":"https://www.mi.edu/admissions/scholarships/","verifiedOn":"2026-09-07","recurring":true,"featured":false
   },
   {
-    "id": "mi-audio-engineering-scholarship",
-    "title": "Musicians Foundation Audio Engineering Scholarship",
-    "provider": "Musicians Institute",
-    "programGroup": "media",
-    "categories": ["Music Industry", "Broadcast Engineering & Technology", "Production & Multimedia"],
-    "award": "Tuition scholarship; amount varies",
-    "deadline": null,
-    "opens": null,
-    "educationLevels": ["College"],
-    "states": ["California"],
-    "institutionSpecific": true,
-    "institution": "Musicians Institute",
-    "summary": "Scholarship for students pursuing audio engineering education at Musicians Institute.",
-    "eligibility": "Restricted to eligible students in the institution's Audio Engineering program.",
-    "url": "https://www.mi.edu/admissions/scholarships/",
-    "sourceUrl": "https://www.mi.edu/admissions/scholarships/",
-    "verifiedOn": "2026-09-07",
-    "recurring": true,
-    "featured": false
+    "id":"mtsu-recording-industry","title":"Department of Recording Industry Scholarships","provider":"Middle Tennessee State University","programGroup":"media","categories":["Music Industry","Production & Multimedia","Broadcast Engineering & Technology"],"award":"Approximately $300–$3,000","deadline":null,"opens":null,"educationLevels":["College"],"states":["Tennessee"],"institutionSpecific":true,"institution":"Middle Tennessee State University","summary":"Multiple one-time awards for continuing students in MTSU's Department of Recording Industry.","eligibility":"Restricted to qualifying continuing Recording Industry students at MTSU.","url":"https://recording-industry.mtsu.edu/scholarships/","sourceUrl":"https://recording-industry.mtsu.edu/scholarships/","verifiedOn":"2026-09-07","recurring":true,"featured":false
   },
   {
-    "id": "mi-live-event-production-scholarship",
-    "title": "Musicians Foundation Live Music Event Production Scholarship",
-    "provider": "Musicians Institute",
-    "programGroup": "media",
-    "categories": ["Music Industry", "Production & Multimedia"],
-    "award": "Tuition scholarship; amount varies",
-    "deadline": null,
-    "opens": null,
-    "educationLevels": ["College"],
-    "states": ["California"],
-    "institutionSpecific": true,
-    "institution": "Musicians Institute",
-    "summary": "Scholarship supporting students preparing for careers in live music and event production.",
-    "eligibility": "Restricted to eligible students in the institution's Live Music Event Production program.",
-    "url": "https://www.mi.edu/admissions/scholarships/",
-    "sourceUrl": "https://www.mi.edu/admissions/scholarships/",
-    "verifiedOn": "2026-09-07",
-    "recurring": true,
-    "featured": false
+    "id":"music-forward","title":"Music Forward Foundation Scholarships","provider":"Music Forward Foundation","programGroup":"media","categories":["Music Industry","Production & Multimedia","Advertising & Media Sales"],"award":"Four $10,000 scholarships","deadline":null,"opens":null,"educationLevels":["College"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"Scholarships for students preparing for careers in music business and related music-industry fields.","eligibility":"College juniors or seniors majoring in music business or a related field at an accredited U.S. institution.","url":"https://musicforwardfoundation.org/programs/scholarships/","sourceUrl":"https://musicforwardfoundation.org/programs/scholarships/","verifiedOn":"2026-09-07","recurring":true,"featured":true
+  },
+  {
+    "id":"prsa-urbanski","title":"Robin M. Urbanski Memorial Scholarship","provider":"PRSA Foundation","programGroup":"media","categories":["Public Relations & Communications","Journalism & News"],"award":"$1,000","deadline":null,"opens":null,"educationLevels":["College"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"Annual award recognizing mentoring and commitment to a public-relations career.","eligibility":"PRSSA members entering junior or senior year with a qualifying major and 3.0 GPA.","url":"https://www.prsafoundation.org/scholarships-awards/robin-m-urbanski-memorial-scholarship/","sourceUrl":"https://www.prsafoundation.org/scholarships-awards/robin-m-urbanski-memorial-scholarship/","verifiedOn":"2026-09-07","recurring":true,"featured":false
+  },
+  {
+    "id":"prsa-culp","title":"Ron Culp Scholarship for Mentorship","provider":"PRSA Foundation","programGroup":"media","categories":["Public Relations & Communications","Journalism & News"],"award":"$1,500","deadline":null,"opens":null,"educationLevels":["College"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"Annual scholarship honoring a senior for mentoring others and promoting public relations as a career.","eligibility":"PRSSA members entering senior year at an accredited four-year institution.","url":"https://www.prsafoundation.org/scholarships-awards/ron-culp-scholarship-for-mentorship/","sourceUrl":"https://www.prsafoundation.org/scholarships-awards/ron-culp-scholarship-for-mentorship/","verifiedOn":"2026-09-07","recurring":true,"featured":false
+  },
+  {
+    "id":"prsa-pisinski","title":"Stephen D. Pisinski Memorial Scholarship","provider":"PRSA Foundation","programGroup":"media","categories":["Public Relations & Communications","Journalism & News"],"award":"$2,000","deadline":null,"opens":null,"educationLevels":["College"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"Annual award for an accomplished journalism, communications or public-relations student.","eligibility":"PRSSA-member juniors or seniors in an eligible major with at least a 3.3 GPA.","url":"https://www.prsafoundation.org/scholarships-awards/stephen-d-pisinski-memorial-scholarship/","sourceUrl":"https://www.prsafoundation.org/scholarships-awards/stephen-d-pisinski-memorial-scholarship/","verifiedOn":"2026-09-07","recurring":true,"featured":false
+  },
+  {
+    "id":"prsa-agean","title":"AGEAN Public Relations Fellowship","provider":"PRSA Foundation","programGroup":"media","categories":["Public Relations & Communications","Digital Media","Journalism & News"],"award":"$2,500 scholarship plus paid internship","deadline":null,"opens":null,"educationLevels":["College"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"Annual scholarship and five-week paid public-relations internship for a BIPOC student.","eligibility":"BIPOC full-time undergraduate rising juniors or seniors in an eligible major with at least a 2.5 GPA.","url":"https://www.prsafoundation.org/scholarships-awards/agean-public-relations-fellowship/","sourceUrl":"https://www.prsafoundation.org/scholarships-awards/agean-public-relations-fellowship/","verifiedOn":"2026-09-07","recurring":true,"featured":false
+  },
+  {
+    "id":"prsa-evolvemkd","title":"EvolveMKD Fellowship","provider":"PRSA Foundation","programGroup":"media","categories":["Public Relations & Communications","Digital Media","Journalism & News"],"award":"$5,000 scholarship plus paid internship","deadline":null,"opens":null,"educationLevels":["College"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"Scholarship paired with a twelve-week full-time internship with EvolveMKD in New York City.","eligibility":"Students pursuing communications, marketing, public relations, journalism or English.","url":"https://www.prsafoundation.org/scholarships-awards/evolvemkd-fellowship/","sourceUrl":"https://www.prsafoundation.org/scholarships-awards/evolvemkd-fellowship/","verifiedOn":"2026-09-07","recurring":true,"featured":false
+  },
+  {
+    "id":"prsa-key","title":"The Key PR Fellowship","provider":"PRSA Foundation","programGroup":"media","categories":["Public Relations & Communications","Advertising & Media Sales"],"award":"$10,000 scholarship, $4,000 stipend and paid internship","deadline":null,"opens":null,"educationLevels":["College"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"Scholarship, stipend and eight-week internship with The Key PR in San Francisco.","eligibility":"BIPOC-identified or first-generation students majoring in PR, marketing or communications.","url":"https://www.prsafoundation.org/scholarships-awards/the-key-pr-fellowship/","sourceUrl":"https://www.prsafoundation.org/scholarships-awards/the-key-pr-fellowship/","verifiedOn":"2026-09-07","recurring":true,"featured":true
+  },
+  {
+    "id":"prsa-launchsquad","title":"LaunchSquad Fellowship","provider":"PRSA Foundation","programGroup":"media","categories":["Public Relations & Communications","Journalism & News","Advertising & Media Sales"],"award":"$15,000 scholarship, $4,000 stipend and paid internship","deadline":null,"opens":null,"educationLevels":["College"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"Major scholarship, stipend and eight-week paid internship for a communications student.","eligibility":"BIPOC students pursuing journalism, public relations, marketing or communications.","url":"https://www.prsafoundation.org/scholarships-awards/launchsquad-fellowship/","sourceUrl":"https://www.prsafoundation.org/scholarships-awards/launchsquad-fellowship/","verifiedOn":"2026-09-07","recurring":true,"featured":true
+  },
+  {
+    "id":"prsa-mission-north","title":"Mission North The Future Is… Fellowship","provider":"PRSA Foundation","programGroup":"media","categories":["Public Relations & Communications","Digital Media","Advertising & Media Sales"],"award":"$32,000 scholarship, $6,000 stipend and paid internship","deadline":null,"opens":null,"educationLevels":["College"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"Scholarship, stipend and paid internship focused on technology, science or digital communications.","eligibility":"BIPOC female-identified students pursuing tech PR, science communications, or digital marketing and design.","url":"https://www.prsafoundation.org/scholarships-awards/mission-north-the-future-is-fellowship/","sourceUrl":"https://www.prsafoundation.org/scholarships-awards/mission-north-the-future-is-fellowship/","verifiedOn":"2026-09-07","recurring":true,"featured":true
+  },
+  {
+    "id":"prsa-solcomms","title":"SolComms Fellowship","provider":"PRSA Foundation","programGroup":"media","categories":["Public Relations & Communications","Advertising & Media Sales"],"award":"$5,000 scholarship plus paid internship","deadline":null,"opens":null,"educationLevels":["College"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"Scholarship and thirteen-week full-time internship with SolComms in New York City.","eligibility":"BIPOC-identified and/or LGBTQ-identified students pursuing public relations or communications.","url":"https://www.prsafoundation.org/scholarships-awards/solcomms-fellowship/","sourceUrl":"https://www.prsafoundation.org/scholarships-awards/solcomms-fellowship/","verifiedOn":"2026-09-07","recurring":true,"featured":false
+  },
+  {
+    "id":"fpra-student","title":"FPREF Student Scholarships","provider":"Florida Public Relations Education Foundation","programGroup":"media","categories":["Public Relations & Communications"],"award":"At least two $1,500 scholarships","deadline":null,"opens":null,"educationLevels":["College"],"states":["Florida"],"institutionSpecific":false,"institution":null,"summary":"Annual scholarships for Florida students preparing for PR and communications careers.","eligibility":"Incoming seniors in an upper-division communications-related track at an accredited Florida institution with at least a 3.0 GPA.","url":"https://www.fpra.org/education-foundation/scholarships-and-grants","sourceUrl":"https://www.fpra.org/education-foundation/scholarships-and-grants","verifiedOn":"2026-09-07","recurring":true,"featured":false
+  },
+  {
+    "id":"coca-cola-2027","title":"Coca-Cola Scholars Program Scholarship","provider":"Coca-Cola Scholars Foundation","programGroup":"general","categories":["Any Major","Academic Achievement","Community Service"],"award":"150 scholarships of $20,000","deadline":"2026-09-30","opens":"2026-08-03","educationLevels":["High School"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"National scholarship recognizing graduating seniors for leadership, academics and service.","eligibility":"Eligible U.S. students graduating during the 2026–27 academic year who meet official requirements.","url":"https://www.coca-colascholarsfoundation.org/apply/","sourceUrl":"https://www.coca-colascholarsfoundation.org/apply/","verifiedOn":"2026-09-07","recurring":true,"featured":true
+  },
+  {
+    "id":"sofi-monthly","title":"SoFi Monthly Scholarship Giveaway","provider":"SoFi","programGroup":"general","categories":["Any Major"],"award":"$2,500 monthly","deadline":null,"opens":null,"educationLevels":["College","Graduate"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"Recurring no-essay monthly scholarship giveaway for eligible college and graduate students.","eligibility":"U.S. residents age 18 or older enrolled or accepted at an eligible accredited nonprofit institution.","url":"https://www.sofi.com/scholarship-giveaway/","sourceUrl":"https://www.sofi.com/scholarship-giveaway/","verifiedOn":"2026-09-07","recurring":true,"featured":false
+  },
+  {
+    "id":"davidson-fellows-2027","title":"Davidson Fellows Scholarship","provider":"Davidson Institute","programGroup":"general","categories":["Any Major","Academic Achievement"],"award":"$100,000, $50,000 and $25,000 awards","deadline":null,"opens":null,"educationLevels":["High School"],"states":["Nationwide"],"institutionSpecific":false,"institution":null,"summary":"Large awards for young people who completed a significant piece of work, including eligible work in music.","eligibility":"Applicants must be 18 or younger by the deadline and meet U.S. citizenship or permanent-residency requirements.","url":"https://www.davidsongifted.org/gifted-programs/fellows-scholarship/","sourceUrl":"https://www.davidsongifted.org/gifted-programs/fellows-scholarship/","verifiedOn":"2026-09-07","recurring":true,"featured":true
   }
 ]
