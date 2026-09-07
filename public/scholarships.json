@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T20:48:57.498Z",
-  "count": 52,
+  "generatedAt": "2026-09-07T21:05:37.690Z",
+  "count": 70,
   "records": [
     {
       "id": "coca-cola-2027",
@@ -124,6 +124,64 @@
       "featured": true
     },
     {
+      "id": "cooke-college-scholarship-2027",
+      "title": "Cooke College Scholarship Program",
+      "provider": "Jack Kent Cooke Foundation",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Academic Achievement",
+        "Financial Need"
+      ],
+      "award": "Up to $55,000 per year",
+      "deadline": "2026-11-11",
+      "opens": "2026-08-19",
+      "educationLevels": [
+        "High School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Renewable undergraduate scholarship for high-achieving high school seniors with financial need.",
+      "eligibility": "U.S. high school seniors planning full-time enrollment at an accredited four-year college who meet GPA and financial-need requirements.",
+      "url": "https://www.jkcf.org/our-scholarships/college-scholarship-program/",
+      "sourceUrl": "https://www.jkcf.org/our-scholarships/college-scholarship-program/how-to-apply/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "hagan-scholarship-2027",
+      "title": "Hagan Scholarship",
+      "provider": "Hagan Scholarship Foundation",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Academic Achievement",
+        "Financial Need"
+      ],
+      "award": "Up to $7,500 per semester plus additional benefits",
+      "deadline": "2026-12-01",
+      "opens": "2026-09-01",
+      "educationLevels": [
+        "High School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Nationwide need-based merit scholarship designed to help recipients graduate college debt-free.",
+      "eligibility": "Graduating U.S. high school students meeting the program's GPA, household-income, employment and college-enrollment requirements.",
+      "url": "https://haganscholarships.org/",
+      "sourceUrl": "https://haganscholarships.org/timeline/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
       "id": "southeast-emmy-2027",
       "title": "Southeast EMMY Scholarships",
       "provider": "NATAS Southeast Chapter",
@@ -178,6 +236,35 @@
       "eligibility": "Sophomore- and junior-standing students attending U.S. colleges and universities.",
       "url": "https://www.americanadvertisingfoundation.org/Foundation/Foundation/Mosaic-Scholarship.aspx",
       "sourceUrl": "https://www.americanadvertisingfoundation.org/Foundation/Foundation/Mosaic-Scholarship.aspx",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "cameron-impact-2028",
+      "title": "Cameron Impact Scholarship",
+      "provider": "Bryan Cameron Education Foundation",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Academic Achievement",
+        "Community Service"
+      ],
+      "award": "Four-year full tuition and qualified educational expenses",
+      "deadline": "2027-05-01",
+      "opens": "2027-02-01",
+      "educationLevels": [
+        "High School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Impact-driven scholarship for exceptional student leaders pursuing any academic area at a U.S. college.",
+      "eligibility": "Class of 2028 students who are U.S. citizens, have at least a 3.7 unweighted GPA and demonstrate leadership and community service.",
+      "url": "https://www.bryancameroneducationfoundation.org/scholarship",
+      "sourceUrl": "https://www.bryancameroneducationfoundation.org/faq",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": true
@@ -241,6 +328,35 @@
       "featured": true
     },
     {
+      "id": "dell-scholars-2027",
+      "title": "Dell Scholars Program",
+      "provider": "Michael & Susan Dell Foundation",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Financial Need",
+        "First-Generation Students"
+      ],
+      "award": "Financial assistance, academic coaching and career support",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "College-completion scholarship combining flexible financial support with academic and professional resources.",
+      "eligibility": "High school seniors in an approved college-readiness program who are Pell-eligible, have at least a 2.4 GPA and plan full-time four-year enrollment.",
+      "url": "https://www.dellscholars.org/students/",
+      "sourceUrl": "https://www.dellscholars.org/students/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
       "id": "sbe-ennes",
       "title": "Ennes Educational Foundation Scholarships",
       "provider": "Society of Broadcast Engineers",
@@ -291,6 +407,37 @@
       "eligibility": "Indiana residents attending an IBA-member school and meeting participation and GPA requirements.",
       "url": "https://indianabroadcasters.org/careers/scholarship-application/",
       "sourceUrl": "https://indianabroadcasters.org/careers/scholarship-application/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "jackie-robinson-foundation-2027",
+      "title": "Jackie Robinson Foundation Scholarship",
+      "provider": "Jackie Robinson Foundation",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Academic Achievement",
+        "Financial Need",
+        "Community Service",
+        "Diversity & Identity"
+      ],
+      "award": "Up to $35,000 over four years",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Four-year scholarship and mentoring program for academically accomplished student leaders with financial need.",
+      "eligibility": "Graduating U.S. high school seniors demonstrating financial need, academic excellence, leadership and community service.",
+      "url": "https://jackierobinson.org/apply/",
+      "sourceUrl": "https://jackierobinson.org/scholarship/",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": true
@@ -579,6 +726,36 @@
       "featured": true
     },
     {
+      "id": "gates-scholarship-2027",
+      "title": "The Gates Scholarship",
+      "provider": "The Gates Scholarship",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Academic Achievement",
+        "Financial Need",
+        "Diversity & Identity"
+      ],
+      "award": "Last-dollar funding for the full cost of attendance",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Highly selective scholarship for outstanding high school seniors from low-income households.",
+      "eligibility": "Pell-eligible high school seniors who meet citizenship, GPA, enrollment and identity requirements listed by the program.",
+      "url": "https://www.thegatesscholarship.org/scholarship",
+      "sourceUrl": "https://www.thegatesscholarship.org/scholarship",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
       "id": "prsa-key",
       "title": "The Key PR Fellowship",
       "provider": "PRSA Foundation",
@@ -602,6 +779,37 @@
       "eligibility": "BIPOC-identified or first-generation students majoring in PR, marketing or communications.",
       "url": "https://www.prsafoundation.org/scholarships-awards/the-key-pr-fellowship/",
       "sourceUrl": "https://www.prsafoundation.org/scholarships-awards/the-key-pr-fellowship/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "tillman-scholars-2027",
+      "title": "Tillman Scholar Program",
+      "provider": "Pat Tillman Foundation",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Community Service",
+        "Veterans & Military Families"
+      ],
+      "award": "Academic scholarship, leadership development and national network",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College",
+        "Graduate",
+        "Professional"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Merit-based academic fellowship for military members, veterans and spouses committed to service and leadership.",
+      "eligibility": "Veterans, active-duty service members and current or surviving military spouses enrolled full-time in an eligible degree program.",
+      "url": "https://pattillmanfoundation.org/apply/",
+      "sourceUrl": "https://pattillmanfoundation.org/eligibility-and-compensation/",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": true
@@ -633,6 +841,132 @@
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": true
+    },
+    {
+      "id": "elks-mvs-2027",
+      "title": "Elks Most Valuable Student Scholarship",
+      "provider": "Elks National Foundation",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Academic Achievement",
+        "Financial Need",
+        "Community Service"
+      ],
+      "award": "500 awards ranging from $4,000 to $30,000",
+      "deadline": "2026-11-12",
+      "opens": "2026-08-01",
+      "educationLevels": [
+        "High School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "National competition for high school seniors judged on scholarship, leadership and financial need.",
+      "eligibility": "U.S. citizen high school seniors planning full-time study toward a four-year degree at a U.S. college or university.",
+      "url": "https://www.elks.org/scholars/scholarships/mvs.cfm",
+      "sourceUrl": "https://www.elks.org/scholars/scholarships/mvs.cfm",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "point-flagship-2027",
+      "title": "Point Foundation Flagship Scholarship",
+      "provider": "Point Foundation",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Financial Need",
+        "Community Service",
+        "Diversity & Identity"
+      ],
+      "award": "Need-based financial award renewable for up to four years",
+      "deadline": "2026-11-20",
+      "opens": "2026-09-10",
+      "educationLevels": [
+        "High School",
+        "College",
+        "Graduate",
+        "Professional"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Financial support, leadership development and community resources for LGBTQ+ and ally students.",
+      "eligibility": "Students connected and committed to the LGBTQ+ and ally community who meet GPA and full-time enrollment requirements.",
+      "url": "https://pointfoundation.org/scholarships/flagship",
+      "sourceUrl": "https://pointfoundation.org/scholarships/flagship",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "burger-king-scholars-2027",
+      "title": "Burger King Scholars Program",
+      "provider": "Burger King Foundation",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Academic Achievement",
+        "Community Service",
+        "Employer, Union & Family Affiliations"
+      ],
+      "award": "Awards vary; top awards reach $60,000",
+      "deadline": "2026-12-15",
+      "opens": "2026-10-15",
+      "educationLevels": [
+        "High School",
+        "College",
+        "Technical School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarships for high school seniors and eligible Burger King employees and family members.",
+      "eligibility": "Eligibility varies by award and includes graduating high school seniors plus qualifying Burger King employees and their families.",
+      "url": "https://www.burgerkingfoundation.org/programs/burger-king-sm-scholars",
+      "sourceUrl": "https://www.burgerkingfoundation.org/programs/burger-king-sm-scholars",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "horatio-alger-senior-2027",
+      "title": "Horatio Alger Undergraduate Scholarships",
+      "provider": "Horatio Alger Association",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Financial Need",
+        "Community Service"
+      ],
+      "award": "Awards vary by scholarship program",
+      "deadline": "2027-02-15",
+      "opens": "2026-12-01",
+      "educationLevels": [
+        "High School",
+        "College",
+        "Technical School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "A collection of national and state scholarships for students who have overcome significant adversity.",
+      "eligibility": "Requirements vary; programs generally consider financial need, perseverance, integrity, academics and community involvement.",
+      "url": "https://horatioalger.org/scholarships-and-services/undergraduate-scholarships/",
+      "sourceUrl": "https://scholars.horatioalger.org/scholarships/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
     },
     {
       "id": "adc-shaheen",
@@ -715,6 +1049,100 @@
       "eligibility": "BIPOC full-time undergraduate rising juniors or seniors in an eligible major with at least a 2.5 GPA.",
       "url": "https://www.prsafoundation.org/scholarships-awards/agean-public-relations-fellowship/",
       "sourceUrl": "https://www.prsafoundation.org/scholarships-awards/agean-public-relations-fellowship/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "american-legion-legacy-2027",
+      "title": "American Legion Legacy Scholarship",
+      "provider": "The American Legion",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Financial Need",
+        "Veterans & Military Families"
+      ],
+      "award": "Up to $20,000 for children of the fallen; up to $5,000 for children of disabled veterans",
+      "deadline": null,
+      "opens": "2027-01-01",
+      "educationLevels": [
+        "College",
+        "Graduate",
+        "Technical School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Needs-based scholarship for eligible children of post-9/11 fallen and disabled U.S. service members.",
+      "eligibility": "Children of qualifying fallen service members or post-9/11 veterans with a combined VA disability rating of 50% or higher.",
+      "url": "https://www.legion.org/get-involved/scholarships/the-american-legion-legacy-scholarship",
+      "sourceUrl": "https://www.legion.org/get-involved/scholarships/the-american-legion-legacy-scholarship",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "apia-scholars-2027",
+      "title": "APIA Scholars Scholarship Program",
+      "provider": "APIA Scholars",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Financial Need",
+        "First-Generation Students",
+        "Diversity & Identity"
+      ],
+      "award": "Awards vary by scholarship",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School",
+        "College",
+        "Community College"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarships supporting Asian American, Native Hawaiian and Pacific Islander undergraduate students.",
+      "eligibility": "Eligible citizens, nationals and permanent residents entering or continuing an undergraduate degree at an accredited U.S. institution.",
+      "url": "https://apiascholars.org/scholarships/",
+      "sourceUrl": "https://apiascholars.org/scholarships/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "gilman-scholarship-2027",
+      "title": "Benjamin A. Gilman International Scholarship",
+      "provider": "U.S. Department of State",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Financial Need",
+        "First-Generation Students",
+        "Diversity & Identity"
+      ],
+      "award": "Up to $5,000 plus possible supplemental awards",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College",
+        "Community College"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Federal scholarship helping undergraduate Pell Grant recipients study or intern abroad.",
+      "eligibility": "U.S. undergraduate students receiving a Federal Pell Grant and participating in an eligible credit-bearing study-abroad or internship program.",
+      "url": "https://www.gilmanscholarship.org/program/program-overview/",
+      "sourceUrl": "https://www.gilmanscholarship.org/program/program-overview/",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": false
@@ -946,6 +1374,67 @@
       "featured": false
     },
     {
+      "id": "ge-reagan-2027",
+      "title": "GE-Reagan Foundation Scholarship Program",
+      "provider": "Ronald Reagan Presidential Foundation and Institute",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Academic Achievement",
+        "Community Service"
+      ],
+      "award": "Up to $40,000",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Renewable national scholarship recognizing leadership, drive, integrity and citizenship.",
+      "eligibility": "High school seniors nationwide who satisfy the program's citizenship, enrollment, academic and leadership requirements.",
+      "url": "https://www.reaganfoundation.org/education/ge-reagan-foundation-scholarship",
+      "sourceUrl": "https://www.reaganfoundation.org/education/ge-reagan-foundation-scholarship",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "hsf-scholar-2027",
+      "title": "HSF Scholar Program",
+      "provider": "Hispanic Scholarship Fund",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Academic Achievement",
+        "Financial Need",
+        "Diversity & Identity"
+      ],
+      "award": "Scholar support services and competitive financial awards",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School",
+        "College",
+        "Graduate"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "National scholar-support program with financial awards available to selected eligible scholars.",
+      "eligibility": "Students of Hispanic heritage who meet citizenship or residency, GPA, enrollment and financial-aid application requirements.",
+      "url": "https://www.hsf.net/scholarship",
+      "sourceUrl": "https://www.hsf.net/scholarship",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
       "id": "nlgja-kay-longcope",
       "title": "Kay Longcope Scholarship",
       "provider": "NLGJA: The Association of LGBTQ+ Journalists",
@@ -969,6 +1458,36 @@
       "eligibility": "Eligible LGBTQ undergraduate or graduate students of color meeting NLGJA requirements.",
       "url": "https://www.nlgja.org/scholarships/",
       "sourceUrl": "https://www.nlgja.org/scholarships/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "live-mas-2027",
+      "title": "Live Más Scholarship",
+      "provider": "Taco Bell Foundation",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Community Service"
+      ],
+      "award": "Awards vary",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School",
+        "College",
+        "Technical School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Passion-based scholarship supporting young people pursuing higher education and workforce preparation.",
+      "eligibility": "Eligible U.S. residents ages 16–26 pursuing an educational program and using their passion to create positive change.",
+      "url": "https://tacobellfoundation.org/live-mas-scholarship/",
+      "sourceUrl": "https://tacobellfoundation.org/live-mas-scholarship/eligibilityfaq/",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": false
@@ -1219,6 +1738,37 @@
       "eligibility": "Students attending in San Diego County or permanent county residents studying elsewhere.",
       "url": "https://sdpressclub.org/scholarships/",
       "sourceUrl": "https://sdpressclub.org/scholarships/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "scholarship-america-dream-2027",
+      "title": "Scholarship America Dream Award",
+      "provider": "Scholarship America",
+      "programGroup": "general",
+      "categories": [
+        "Any Major",
+        "Academic Achievement",
+        "Financial Need",
+        "Community Service"
+      ],
+      "award": "Up to $10,000; renewable support available",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College",
+        "Technical School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Renewable scholarship designed to help students continue and complete an undergraduate or technical degree.",
+      "eligibility": "Students enrolled or planning to enroll in eligible higher-education programs who demonstrate financial need and meet program requirements.",
+      "url": "https://scholarshipamerica.org/scholarship/dreamaward/",
+      "sourceUrl": "https://scholarshipamerica.org/scholarship/dreamaward/",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": false
