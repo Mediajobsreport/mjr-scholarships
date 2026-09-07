@@ -1,24 +1,59 @@
-name: Update scholarship directory
+name: Update and publish scholarship directory
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 8 * * *'
+    - cron: "17 8 * * *"
+
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
         with:
           node-version: 24
-      - run: npm run build
-      - name: Commit updated feed
+
+      - name: Build scholarship directory
+        run: npm run build
+
+      - name: Commit updated scholarship feed
         run: |
-          if git diff --quiet; then exit 0; fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/scholarships.json
-          git commit -m "Update scholarship directory"
-          git push
+          if git diff --quiet; then
+            echo "No feed changes to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add public/scholarships.json public/app.js public/styles.css
+            git commit -m "Update scholarship directory"
+            git push
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload scholarship website
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Publish scholarship website
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
