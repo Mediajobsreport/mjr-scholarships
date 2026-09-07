@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T21:33:03.998Z",
-  "count": 101,
+  "generatedAt": "2026-09-07T21:45:33.671Z",
+  "count": 121,
   "records": [
     {
       "id": "awm-ncta-scholarship-2027",
@@ -428,6 +428,95 @@
       "featured": true
     },
     {
+      "id": "prssa-axia-public-relations",
+      "title": "Axia Public Relations Scholarship",
+      "provider": "PRSA Foundation and Axia Public Relations",
+      "programGroup": "media",
+      "categories": [
+        "Public Relations & Communications",
+        "Financial Need"
+      ],
+      "award": "$2,000",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarship assisting an outstanding college student with financial need who is pursuing a public relations career.",
+      "eligibility": "College students pursuing public relations who meet the current academic and financial-need requirements.",
+      "url": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "sourceUrl": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "prssa-betsy-plank-scholarships",
+      "title": "Betsy Plank/PRSSA Scholarships",
+      "provider": "PRSA Foundation and PRSSA",
+      "programGroup": "media",
+      "categories": [
+        "Public Relations & Communications",
+        "Academic Achievement"
+      ],
+      "award": "$5,000 first place; $1,500 second place; $1,000 third place",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Three scholarships recognizing outstanding public relations students for achievement, leadership and professional commitment.",
+      "eligibility": "College juniors and seniors with strong academics, leadership, practical experience and commitment to public relations.",
+      "url": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "sourceUrl": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "uf-cjc-undergraduate-scholarships",
+      "title": "College of Journalism and Communications Scholarships",
+      "provider": "University of Florida College of Journalism and Communications",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Radio & Podcasting",
+        "Television & Video",
+        "Digital Media",
+        "Public Relations & Communications",
+        "Advertising & Media Sales"
+      ],
+      "award": "More than $500,000 awarded per school year across scholarships",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Florida",
+        "Nationwide"
+      ],
+      "institutionSpecific": true,
+      "institution": "University of Florida College of Journalism and Communications",
+      "summary": "Privately funded undergraduate scholarships for degree-seeking students in the College of Journalism and Communications.",
+      "eligibility": "Degree-seeking University of Florida undergraduates whose primary major is within the College of Journalism and Communications.",
+      "url": "https://www.jou.ufl.edu/knight-division/scholarships/",
+      "sourceUrl": "https://www.jou.ufl.edu/knight-division/scholarships/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
       "id": "davidson-fellows-2027",
       "title": "Davidson Fellows Scholarship",
       "provider": "Davidson Institute",
@@ -536,6 +625,93 @@
       "eligibility": "Students beginning or continuing broadcast-engineering education; individual award requirements vary.",
       "url": "https://sbe.org/sections/education/scholarships.php",
       "sourceUrl": "https://sbe.org/sections/education/scholarships.php",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "prssa-geoffrey-curtis",
+      "title": "Geoffrey M. Curtis Scholarship",
+      "provider": "PRSA Foundation",
+      "programGroup": "media",
+      "categories": [
+        "Public Relations & Communications",
+        "Journalism & News",
+        "Diversity & Identity"
+      ],
+      "award": "$10,000",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarship supporting a BIPOC student pursuing a career in public relations, journalism or communications.",
+      "eligibility": "BIPOC-identifying rising college juniors or seniors pursuing public relations, journalism or communications careers.",
+      "url": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "sourceUrl": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "prsa-greenough-fellowship",
+      "title": "Greenough Fellowship",
+      "provider": "PRSA Foundation and Greenough Communications",
+      "programGroup": "media",
+      "categories": [
+        "Public Relations & Communications",
+        "Journalism & News",
+        "Diversity & Identity"
+      ],
+      "award": "$3,500 scholarship and paid eight-week internship",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Nationwide",
+        "Massachusetts"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarship and Boston internship for a BIPOC student studying public relations, journalism, marketing or communications.",
+      "eligibility": "BIPOC-identifying students pursuing an eligible major or minor who meet the fellowship's current internship requirements.",
+      "url": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "sourceUrl": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "ieee-bts-afcce-jules-cohen",
+      "title": "IEEE BTS/AFCCE Jules Cohen Memorial Scholarship",
+      "provider": "IEEE Broadcast Technology Society and AFCCE",
+      "programGroup": "media",
+      "categories": [
+        "Broadcast Engineering & Technology"
+      ],
+      "award": "Up to $10,000",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College",
+        "Graduate"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarship for promising engineering students interested in broadcast engineering or broadcast technology careers.",
+      "eligibility": "College juniors, seniors or graduate students attending accredited U.S. universities with an interest in broadcast engineering or technology.",
+      "url": "https://bts.ieee.org/awards.html",
+      "sourceUrl": "https://bts.ieee.org/awards.html",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": true
@@ -804,6 +980,37 @@
       "featured": true
     },
     {
+      "id": "musicians-institute-industry-scholarships",
+      "title": "Musicians Institute Industry Scholarships",
+      "provider": "Musicians Institute",
+      "programGroup": "media",
+      "categories": [
+        "Music Industry",
+        "Production & Multimedia",
+        "Broadcast Engineering & Technology"
+      ],
+      "award": "Awards vary by scholarship",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "California",
+        "Nationwide",
+        "International"
+      ],
+      "institutionSpecific": true,
+      "institution": "Musicians Institute",
+      "summary": "Multiple scholarships for students in audio engineering, music business, production, studio recording and live-event programs.",
+      "eligibility": "New or continuing Musicians Institute students who meet the requirements for a listed program-specific scholarship.",
+      "url": "https://www.mi.edu/admissions/scholarships/",
+      "sourceUrl": "https://www.mi.edu/admissions/scholarships/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
       "id": "nabj-scholarships-fellowships",
       "title": "NABJ Scholarships, Grants and Fellowships",
       "provider": "National Association of Black Journalists",
@@ -922,6 +1129,34 @@
       "eligibility": "Eligibility varies by national award and application cycle.",
       "url": "https://theemmys.tv/scholarships/",
       "sourceUrl": "https://theemmys.tv/scholarships/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "prsa-diversity-multicultural",
+      "title": "PRSA Diversity Multicultural Scholarship",
+      "provider": "PRSA Foundation",
+      "programGroup": "media",
+      "categories": [
+        "Public Relations & Communications",
+        "Diversity & Identity"
+      ],
+      "award": "Two $1,500 scholarships",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Two scholarships for talented multicultural undergraduate communications students.",
+      "eligibility": "Eligible undergraduate communications students from racial or ethnic groups identified in the program rules with at least a 3.0 GPA.",
+      "url": "https://www.prsa.org/about/prsa-foundation/prsa-foundation-scholarships",
+      "sourceUrl": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": true
@@ -1123,6 +1358,37 @@
       "eligibility": "Veterans, active-duty service members and current or surviving military spouses enrolled full-time in an eligible degree program.",
       "url": "https://pattillmanfoundation.org/apply/",
       "sourceUrl": "https://pattillmanfoundation.org/eligibility-and-compensation/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "prsa-v2-communications-fellowship",
+      "title": "V2 Communications Fellowship",
+      "provider": "PRSA Foundation and V2 Communications",
+      "programGroup": "media",
+      "categories": [
+        "Public Relations & Communications",
+        "Journalism & News",
+        "Digital Media",
+        "Diversity & Identity"
+      ],
+      "award": "$2,500 scholarship and paid eight-week full-time internship",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Nationwide",
+        "Massachusetts"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarship and Boston internship for a BIPOC student studying communications, journalism, PR or related marketing fields.",
+      "eligibility": "BIPOC-identifying students pursuing an eligible major who meet the fellowship's current Boston internship requirements.",
+      "url": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "sourceUrl": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": true
@@ -1548,6 +1814,37 @@
       "featured": false
     },
     {
+      "id": "audio-girl-summer-program",
+      "title": "Audio Girl Summer Training Program Scholarship",
+      "provider": "Audio Girl Foundation",
+      "programGroup": "media",
+      "categories": [
+        "Music Industry",
+        "Production & Multimedia",
+        "Public Relations & Communications",
+        "Diversity & Identity"
+      ],
+      "award": "$300 in program scholarship support",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School",
+        "College"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Training scholarship covering music business, marketing, release strategy, project management and distribution.",
+      "eligibility": "Applicants who meet the Audio Girl Foundation's current age, program and participation requirements.",
+      "url": "https://www.audiogirlfoundation.org/the-audio-girl-summer-program-2026/",
+      "sourceUrl": "https://www.audiogirlfoundation.org/the-audio-girl-summer-program-2026/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
       "id": "awm-austin-scholarship",
       "title": "AWM Austin Scholarship",
       "provider": "Alliance for Women in Media Austin",
@@ -1640,6 +1937,35 @@
       "eligibility": "U.S. undergraduate students receiving a Federal Pell Grant and participating in an eligible credit-bearing study-abroad or internship program.",
       "url": "https://www.gilmanscholarship.org/program/program-overview/",
       "sourceUrl": "https://www.gilmanscholarship.org/program/program-overview/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "aes-bil-vorndick-scholarship",
+      "title": "Bil VornDick Scholarship",
+      "provider": "Audio Engineering Society Educational Foundation",
+      "programGroup": "media",
+      "categories": [
+        "Music Industry",
+        "Production & Multimedia",
+        "Broadcast Engineering & Technology"
+      ],
+      "award": "Scholarship support; consult the current application",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Tennessee"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarship supporting an undergraduate studying audio engineering or music production in Tennessee.",
+      "eligibility": "Undergraduate students pursuing audio engineering or music production at an accredited Tennessee program who meet current AES requirements.",
+      "url": "https://aes.org/news/aes-education-foundation-2026-scholarship-for-audio-students/",
+      "sourceUrl": "https://aes.org/news/aes-education-foundation-2026-scholarship-for-audio-students/",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": false
@@ -1759,6 +2085,34 @@
       "featured": false
     },
     {
+      "id": "prssa-chester-burger",
+      "title": "Chester Burger Scholarship for Excellence in Public Relations",
+      "provider": "PRSA Foundation",
+      "programGroup": "media",
+      "categories": [
+        "Public Relations & Communications",
+        "Journalism & News"
+      ],
+      "award": "$1,000",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "Graduate"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Graduate scholarship encouraging students to pursue careers in corporate public relations.",
+      "eligibility": "Graduate students studying public relations, journalism or a related field with at least a 3.0 undergraduate GPA.",
+      "url": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "sourceUrl": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
       "id": "columbia-journalism",
       "title": "Columbia Journalism Scholarships and Fellowships",
       "provider": "Columbia Journalism School",
@@ -1844,6 +2198,33 @@
       "featured": false
     },
     {
+      "id": "sbe-ennes-youth-scholarship",
+      "title": "Ennes Educational Foundation Youth Scholarship",
+      "provider": "Society of Broadcast Engineers",
+      "programGroup": "media",
+      "categories": [
+        "Broadcast Engineering & Technology"
+      ],
+      "award": "Award amount announced with the current cycle",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarship for a graduating high school senior preparing for education leading to a broadcast-engineering career.",
+      "eligibility": "Graduating high school seniors planning to enroll in a technical school, college or university and pursue broadcast engineering studies.",
+      "url": "https://sbe.org/education/schools-scholarships/",
+      "sourceUrl": "https://sbe.org/education/schools-scholarships/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
       "id": "prsa-evolvemkd",
       "title": "EvolveMKD Fellowship",
       "provider": "PRSA Foundation",
@@ -1924,6 +2305,63 @@
       "eligibility": "High school seniors nationwide who satisfy the program's citizenship, enrollment, academic and leadership requirements.",
       "url": "https://www.reaganfoundation.org/education/ge-reagan-foundation-scholarship",
       "sourceUrl": "https://www.reaganfoundation.org/education/ge-reagan-foundation-scholarship",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "prsa-hannah-cranston-media-fellowship",
+      "title": "Hannah Cranston Media Fellowship",
+      "provider": "PRSA Foundation and Hannah Cranston Media",
+      "programGroup": "media",
+      "categories": [
+        "Public Relations & Communications",
+        "Digital Media"
+      ],
+      "award": "$3,000 scholarship and paid twelve-week part-time internship",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Nationwide",
+        "New York"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarship and New York internship for a student pursuing a public relations or communications career.",
+      "eligibility": "Students pursuing public relations or communications who can meet the current New York internship requirements.",
+      "url": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "sourceUrl": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "prsa-hirsch-leatherwood-fellowship",
+      "title": "Hirsch Leatherwood Fellowship",
+      "provider": "PRSA Foundation and Hirsch Leatherwood",
+      "programGroup": "media",
+      "categories": [
+        "Public Relations & Communications"
+      ],
+      "award": "$2,500 scholarship and paid eight-week part-time internship",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Nationwide",
+        "New York"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarship and New York internship for a student pursuing public relations or communications.",
+      "eligibility": "Students pursuing a public relations or communications career who meet the fellowship's current internship requirements.",
+      "url": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "sourceUrl": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": false
@@ -2133,6 +2571,63 @@
       "eligibility": "Students majoring in broadcasting or communications at a Kentucky college or university; rising juniors receive priority consideration.",
       "url": "https://www.kba.org/scholarships/",
       "sourceUrl": "https://www.kba.org/scholarships/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "prsa-kite-hill-fellowship",
+      "title": "Kite Hill Fellowship",
+      "provider": "PRSA Foundation and Kite Hill",
+      "programGroup": "media",
+      "categories": [
+        "Public Relations & Communications",
+        "Journalism & News"
+      ],
+      "award": "$1,500 scholarship and paid three-month part-time internship",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Nationwide",
+        "Florida",
+        "New York"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarship and internship in Miami or New York for a student studying PR, journalism, marketing or communications.",
+      "eligibility": "Students pursuing an eligible major or minor who can meet the current Miami or New York internship requirements.",
+      "url": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "sourceUrl": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "prssa-lawrence-foster",
+      "title": "Lawrence G. Foster Award",
+      "provider": "PRSSA",
+      "programGroup": "media",
+      "categories": [
+        "Public Relations & Communications"
+      ],
+      "award": "$1,500",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Educational award recognizing a student with outstanding potential as a future public relations professional.",
+      "eligibility": "Current PRSSA members who meet the award's application requirements.",
+      "url": "https://www.prsa.org/prssa/scholarships-awards/lawrence-g-foster-award",
+      "sourceUrl": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": false
@@ -2464,6 +2959,35 @@
       "featured": false
     },
     {
+      "id": "prssa-ofield-dukes",
+      "title": "Ofield Dukes Multicultural Student Award",
+      "provider": "PRSA Foundation",
+      "programGroup": "media",
+      "categories": [
+        "Public Relations & Communications",
+        "Academic Achievement",
+        "Diversity & Identity"
+      ],
+      "award": "$1,000",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Award recognizing a multicultural public relations junior for outstanding academic achievement.",
+      "eligibility": "Eligible college juniors from racial or ethnic groups identified in the current program rules who are pursuing public relations.",
+      "url": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "sourceUrl": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
       "id": "bmi-peermusic-latin-award",
       "title": "peermusic Latin Music Award",
       "provider": "BMI Foundation and peermusic",
@@ -2516,6 +3040,35 @@
       "eligibility": "Requirements vary by sponsoring Pennsylvania news organization.",
       "url": "https://panewsmedia.org/for-students/student-journalism-scholarships/",
       "sourceUrl": "https://panewsmedia.org/for-students/student-journalism-scholarships/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "prsa-puget-sound-scholarships",
+      "title": "PRSA Puget Sound Scholarships",
+      "provider": "PRSA Puget Sound",
+      "programGroup": "media",
+      "categories": [
+        "Public Relations & Communications",
+        "Financial Need",
+        "Geographic & State Residency"
+      ],
+      "award": "$4,000",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Washington"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarships recognizing Washington students who demonstrate academic achievement, financial need and interest in public relations.",
+      "eligibility": "Students attending school in Washington State who intend to practice public relations and meet current academic and financial-need requirements.",
+      "url": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "sourceUrl": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": false
@@ -2656,6 +3209,34 @@
       "eligibility": "Students enrolled or planning to enroll in eligible higher-education programs who demonstrate financial need and meet program requirements.",
       "url": "https://scholarshipamerica.org/scholarship/dreamaward/",
       "sourceUrl": "https://scholarshipamerica.org/scholarship/dreamaward/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "prsa-scout-lab-fellowship",
+      "title": "Scout Lab Fellowship",
+      "provider": "PRSA Foundation and Scout Lab",
+      "programGroup": "media",
+      "categories": [
+        "Public Relations & Communications"
+      ],
+      "award": "$2,500 scholarship and paid three-week remote internship",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Nationwide",
+        "Remote"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarship and short remote internship for a student pursuing public relations or communications.",
+      "eligibility": "Students pursuing public relations or communications who meet the fellowship's current application and remote-internship requirements.",
+      "url": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
+      "sourceUrl": "https://www.prsa.org/prssa/scholarships-awards/individual-scholarships",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": false
