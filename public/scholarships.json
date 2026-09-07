@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T21:05:37.690Z",
-  "count": 70,
+  "generatedAt": "2026-09-07T21:17:56.325Z",
+  "count": 86,
   "records": [
     {
       "id": "coca-cola-2027",
@@ -265,6 +265,37 @@
       "eligibility": "Class of 2028 students who are U.S. citizens, have at least a 3.7 unweighted GPA and demonstrate leadership and community service.",
       "url": "https://www.bryancameroneducationfoundation.org/scholarship",
       "sourceUrl": "https://www.bryancameroneducationfoundation.org/faq",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "amark-journalism-scholarships",
+      "title": "A-Mark Journalism Scholarships and Student Awards",
+      "provider": "A-Mark Foundation",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Digital Media",
+        "Production & Multimedia"
+      ],
+      "award": "Awards administered through participating institutions",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College",
+        "Community College",
+        "Graduate"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": true,
+      "institution": "Participating colleges and universities",
+      "summary": "Undergraduate and graduate journalism scholarships plus awards for community-college student journalists.",
+      "eligibility": "Students at participating institutions; each college or university administers and selects recipients under its own process.",
+      "url": "https://amarkfoundation.org/grantees/",
+      "sourceUrl": "https://amarkfoundation.org/grantees/",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": true
@@ -843,6 +874,35 @@
       "featured": true
     },
     {
+      "id": "arkansas-broadcasters-uark-scholarship",
+      "title": "Arkansas Broadcasters Association Scholarship Fund",
+      "provider": "Arkansas Broadcasters Association and University of Arkansas",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Radio & Podcasting",
+        "Television & Video"
+      ],
+      "award": "Varies",
+      "deadline": "2026-10-31",
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Arkansas"
+      ],
+      "institutionSpecific": true,
+      "institution": "University of Arkansas",
+      "summary": "Scholarship for University of Arkansas journalism majors interested in radio and television.",
+      "eligibility": "Eligible University of Arkansas journalism majors demonstrating interest in broadcasting, financial need, character and scholarship.",
+      "url": "https://uark.academicworks.com/opportunities/33343",
+      "sourceUrl": "https://uark.academicworks.com/opportunities/33343",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
       "id": "elks-mvs-2027",
       "title": "Elks Most Valuable Student Scholarship",
       "provider": "Elks National Foundation",
@@ -933,6 +993,36 @@
       "eligibility": "Eligibility varies by award and includes graduating high school seniors plus qualifying Burger King employees and their families.",
       "url": "https://www.burgerkingfoundation.org/programs/burger-king-sm-scholars",
       "sourceUrl": "https://www.burgerkingfoundation.org/programs/burger-king-sm-scholars",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "oklahoma-broadcasters-scholarships-2027",
+      "title": "Oklahoma Association of Broadcasters Scholarships and Assistance",
+      "provider": "Oklahoma Association of Broadcasters Education Foundation",
+      "programGroup": "media",
+      "categories": [
+        "Radio & Podcasting",
+        "Television & Video",
+        "Production & Multimedia",
+        "Broadcast Engineering & Technology"
+      ],
+      "award": "Scholarships and student assistance awards vary",
+      "deadline": "2027-02-09",
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Oklahoma"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarships and financial-assistance programs supporting students preparing for Oklahoma broadcast careers.",
+      "eligibility": "Eligibility varies by program and generally requires broadcast study at an Oklahoma college or university.",
+      "url": "https://oabok.org/careerseducation/scholarships/",
+      "sourceUrl": "https://oabok.org/careerseducation/scholarships/",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": false
@@ -1054,6 +1144,35 @@
       "featured": false
     },
     {
+      "id": "alabama-broadcasters-asu-endowed-scholarship",
+      "title": "Alabama Broadcasters Association Endowed Scholarship at ASU",
+      "provider": "Alabama Broadcasters Association and Alabama State University",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Radio & Podcasting",
+        "Television & Video"
+      ],
+      "award": "Awards determined by the university",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Alabama"
+      ],
+      "institutionSpecific": true,
+      "institution": "Alabama State University",
+      "summary": "Endowed scholarship supporting Alabama State University students studying broadcast communications.",
+      "eligibility": "Eligible Alabama State University communications majors, generally juniors or seniors meeting current GPA and program requirements.",
+      "url": "https://www.alasu.edu/_qa/news-may-2025-broadcast-scholarships.php",
+      "sourceUrl": "https://www.alasu.edu/_qa/news-may-2025-broadcast-scholarships.php",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
       "id": "american-legion-legacy-2027",
       "title": "American Legion Legacy Scholarship",
       "provider": "The American Legion",
@@ -1117,6 +1236,36 @@
       "featured": false
     },
     {
+      "id": "arizona-broadcasters-cronkite-scholarship",
+      "title": "Arizona Broadcasters Association Scholarship",
+      "provider": "Arizona Broadcasters Association and ASU Foundation",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Radio & Podcasting",
+        "Television & Video",
+        "Digital Media"
+      ],
+      "award": "Awards determined by the university",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Arizona"
+      ],
+      "institutionSpecific": true,
+      "institution": "Arizona State University Walter Cronkite School",
+      "summary": "Scholarship support for students preparing for broadcasting careers at ASU's Walter Cronkite School.",
+      "eligibility": "Eligible Walter Cronkite School students selected under current ASU scholarship requirements.",
+      "url": "https://www.asufoundation.org/changing-futures/inspire-tomorrows-game-changers/arizona-broadcasters-association-scholarship-CA112143.html",
+      "sourceUrl": "https://www.asufoundation.org/changing-futures/inspire-tomorrows-game-changers/arizona-broadcasters-association-scholarship-CA112143.html",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
       "id": "gilman-scholarship-2027",
       "title": "Benjamin A. Gilman International Scholarship",
       "provider": "U.S. Department of State",
@@ -1171,6 +1320,35 @@
       "eligibility": "Eligible high-school and college students who meet New England residency and study requirements.",
       "url": "https://newenglandemmy.org/students/2026-scholarships/",
       "sourceUrl": "https://newenglandemmy.org/students/2026-scholarships/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "colorado-broadcast-education-development",
+      "title": "Broadcast Education and Development Scholarship",
+      "provider": "Colorado Broadcasters Association",
+      "programGroup": "media",
+      "categories": [
+        "Radio & Podcasting",
+        "Television & Video",
+        "Broadcast Engineering & Technology"
+      ],
+      "award": "Education and professional-development expenses vary",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "Professional"
+      ],
+      "states": [
+        "Colorado"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Professional-development assistance for eligible employees of Colorado radio and television stations.",
+      "eligibility": "Full-time employees of CBA member stations who have worked at the station for at least six months and meet Colorado residency requirements.",
+      "url": "https://www.coloradobroadcasters.org/broadcast-education-development-guidelines/",
+      "sourceUrl": "https://www.coloradobroadcasters.org/broadcast-education-development-guidelines/",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": false
@@ -1435,6 +1613,97 @@
       "featured": false
     },
     {
+      "id": "idaho-broadcasters-academic-scholarships",
+      "title": "Idaho State Broadcasters Association Academic Scholarships",
+      "provider": "Idaho State Broadcasters Association",
+      "programGroup": "media",
+      "categories": [
+        "Radio & Podcasting",
+        "Television & Video",
+        "Production & Multimedia",
+        "Broadcast Engineering & Technology"
+      ],
+      "award": "Awards vary",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Idaho"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Academic scholarship program encouraging Idaho students who are considering careers in broadcasting.",
+      "eligibility": "Students meeting the Idaho State Broadcasters Association's current academic scholarship requirements.",
+      "url": "https://www.idahobroadcasters.org/index.php/scholarships/22-isba-scholarship-program",
+      "sourceUrl": "https://www.idahobroadcasters.org/index.php/scholarships/22-isba-scholarship-program",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "iowa-broadcast-news-scholarships",
+      "title": "Iowa Broadcast News Association Scholarships",
+      "provider": "Iowa Broadcast News Association",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Radio & Podcasting",
+        "Television & Video"
+      ],
+      "award": "Awards vary",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College",
+        "Community College"
+      ],
+      "states": [
+        "Iowa"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Grant Price Scholarship and Dick Petrik Outstanding Student Award for promising electronic-media journalists.",
+      "eligibility": "Students in good standing at eligible two- or four-year Iowa colleges, with class-standing and work-sample requirements varying by award.",
+      "url": "https://ibna.org/awards/scholarships/",
+      "sourceUrl": "https://ibna.org/awards/scholarships/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "minnesota-james-wychor-scholarship",
+      "title": "James Wychor Scholarship",
+      "provider": "Minnesota Broadcasters Association",
+      "programGroup": "media",
+      "categories": [
+        "Radio & Podcasting",
+        "Television & Video",
+        "Production & Multimedia",
+        "Broadcast Engineering & Technology",
+        "Advertising & Media Sales"
+      ],
+      "award": "Awards vary",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School"
+      ],
+      "states": [
+        "Minnesota"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarship designed to support the next generation of Minnesota broadcasting professionals.",
+      "eligibility": "Minnesota high school seniors planning study in mass communications, marketing, engineering, production, editing or another broadcast-related field.",
+      "url": "https://minnesotabroadcasters.com/mba-scholarship",
+      "sourceUrl": "https://minnesotabroadcasters.com/mba-scholarship",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
       "id": "nlgja-kay-longcope",
       "title": "Kay Longcope Scholarship",
       "provider": "NLGJA: The Association of LGBTQ+ Journalists",
@@ -1458,6 +1727,35 @@
       "eligibility": "Eligible LGBTQ undergraduate or graduate students of color meeting NLGJA requirements.",
       "url": "https://www.nlgja.org/scholarships/",
       "sourceUrl": "https://www.nlgja.org/scholarships/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "kentucky-broadcasters-scholarships",
+      "title": "Kentucky Broadcasters Association Scholarships",
+      "provider": "Kentucky Broadcasters Association",
+      "programGroup": "media",
+      "categories": [
+        "Radio & Podcasting",
+        "Television & Video",
+        "Production & Multimedia"
+      ],
+      "award": "Four $3,500 renewable scholarships",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Kentucky"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Competitive scholarships for students studying broadcasting or communications at Kentucky colleges and universities.",
+      "eligibility": "Students majoring in broadcasting or communications at a Kentucky college or university; rising juniors receive priority consideration.",
+      "url": "https://www.kba.org/scholarships/",
+      "sourceUrl": "https://www.kba.org/scholarships/",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": false
@@ -1514,6 +1812,100 @@
       "eligibility": "Students entering or attending an accredited four-year college or university; see next-cycle rules.",
       "url": "https://scholarshipamerica.org/scholarship/lmcscholarship/",
       "sourceUrl": "https://scholarshipamerica.org/scholarship/lmcscholarship/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "maine-broadcasters-scholarships",
+      "title": "Maine Association of Broadcasters Scholarships",
+      "provider": "Maine Association of Broadcasters",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Radio & Podcasting",
+        "Television & Video",
+        "Digital Media",
+        "Production & Multimedia"
+      ],
+      "award": "Awards vary",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School",
+        "College",
+        "Community College"
+      ],
+      "states": [
+        "Maine"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarship assistance for students pursuing journalism, broadcasting, media arts and digital studies.",
+      "eligibility": "Students entering postsecondary education in an eligible media-related field; consult the current application for complete requirements.",
+      "url": "https://www.mab.org/scholarships/",
+      "sourceUrl": "https://www.mab.org/scholarships/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "mississippi-broadcasters-scholarships",
+      "title": "Mississippi Association of Broadcasters Scholarships",
+      "provider": "Mississippi Association of Broadcasters",
+      "programGroup": "media",
+      "categories": [
+        "Radio & Podcasting",
+        "Television & Video",
+        "Production & Multimedia"
+      ],
+      "award": "Scholarship amounts vary by cycle",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College",
+        "Community College"
+      ],
+      "states": [
+        "Mississippi"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarships for students enrolled in media-related educational programs at Mississippi institutions.",
+      "eligibility": "Students meeting current residency, enrollment, broadcast-curriculum and application requirements established by the association.",
+      "url": "https://www.msbroadcasters.org/scholarship-application-1",
+      "sourceUrl": "https://www.msbroadcasters.org/scholarship-application-1",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "missouri-broadcasters-foundation-scholarships",
+      "title": "Missouri Broadcasters Association Foundation Scholarships",
+      "provider": "Missouri Broadcasters Association",
+      "programGroup": "media",
+      "categories": [
+        "Radio & Podcasting",
+        "Television & Video",
+        "Digital Media",
+        "Production & Multimedia"
+      ],
+      "award": "$25,000 awarded across the 2026 scholarship class",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School",
+        "College"
+      ],
+      "states": [
+        "Missouri"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Foundation scholarships assisting Missouri students preparing for careers in broadcasting and digital media.",
+      "eligibility": "Missouri students studying or preparing to study broadcasting or digital media; individual scholarship requirements may vary.",
+      "url": "https://www.mbaweb.org/",
+      "sourceUrl": "https://www.mbaweb.org/awards/",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": false
@@ -1602,6 +1994,34 @@
       "eligibility": "Eligible students in the chapter's five-state region.",
       "url": "https://natasnw.org/scholarship/",
       "sourceUrl": "https://natasnw.org/scholarship/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "ohio-broadcasters-kids-scholarship",
+      "title": "OAB Kids Scholarship",
+      "provider": "Ohio Broadcasters Foundation",
+      "programGroup": "media",
+      "categories": [
+        "Any Major",
+        "Employer, Union & Family Affiliations"
+      ],
+      "award": "$2,500",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School"
+      ],
+      "states": [
+        "Ohio"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Annual scholarship for a child of a full-time employee of an Ohio Association of Broadcasters member station.",
+      "eligibility": "Graduating students whose parent is a full-time employee of an eligible OAB member radio or television station.",
+      "url": "https://oab.org/scholarships/",
+      "sourceUrl": "https://oab.org/scholarships/",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": false
@@ -1934,6 +2354,65 @@
       "eligibility": "Students meeting the Suncoast Chapter's regional and academic requirements.",
       "url": "https://suncoastemmys.org/scholarships/press-release/",
       "sourceUrl": "https://suncoastemmys.org/scholarships/press-release/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "texas-auto-writers-journalism-pr-scholarships",
+      "title": "TAWA Journalism and Public Relations Scholarships",
+      "provider": "Texas Auto Writers Association",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Public Relations & Communications"
+      ],
+      "award": "Three $1,000 scholarships",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Two journalism scholarships and one public-relations scholarship for students interested in automotive media careers.",
+      "eligibility": "Juniors at four-year institutions who intend to pursue careers in journalism or public relations and meet the association's requirements.",
+      "url": "https://texasipa.org/scholarship/",
+      "sourceUrl": "https://texasipa.org/scholarship/",
+      "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "texas-broadcast-education-foundation-scholarships",
+      "title": "Texas Broadcast Education Foundation Scholarships",
+      "provider": "Texas Association of Broadcasters",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Radio & Podcasting",
+        "Television & Video",
+        "Production & Multimedia",
+        "Broadcast Engineering & Technology"
+      ],
+      "award": "Multiple scholarships; amounts vary",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarships for Texas college students preparing for careers in broadcast journalism, production and engineering.",
+      "eligibility": "Students enrolled in eligible broadcast programs at Texas colleges and universities; consult the current TAB application.",
+      "url": "https://www.tab.org/scholarships",
+      "sourceUrl": "https://www.tab.org/scholarships",
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": false
