@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 
 const root = path.resolve(__dirname, '..');
-const sourcePath = path.join(root, 'data', 'scholarships.manual.json');
+const dataDir = path.join(root, 'data');
 const outputPath = path.join(root, 'public', 'scholarships.json');
 const checkOnly = process.argv.includes('--check');
 
@@ -18,43 +18,113 @@ const CATEGORIES = new Set([
 
 function isIsoDate(value) {
   if (value === null) return true;
-  return /^\d{4}-\d{2}-\d{2}$/.test(value) && !Number.isNaN(Date.parse(`${value}T00:00:00Z`));
+  return /^\d{4}-\d{2}-\d{2}$/.test(value) &&
+    !Number.isNaN(Date.parse(`${value}T00:00:00Z`));
 }
 
 function validate(item, index, ids) {
   const label = `Record ${index + 1}`;
-  for (const field of ['id', 'title', 'provider', 'programGroup', 'url', 'sourceUrl']) {
-    if (!item[field] || typeof item[field] !== 'string') throw new Error(`${label}: missing ${field}`);
+
+  for (const field of [
+    'id',
+    'title',
+    'provider',
+    'programGroup',
+    'url',
+    'sourceUrl'
+  ]) {
+    if (!item[field] || typeof item[field] !== 'string') {
+      throw new Error(`${label}: missing ${field}`);
+    }
   }
-  if (ids.has(item.id)) throw new Error(`${label}: duplicate id ${item.id}`);
+
+  if (ids.has(item.id)) {
+    throw new Error(`${label}: duplicate id ${item.id}`);
+  }
+
   ids.add(item.id);
-  if (!GROUPS.has(item.programGroup)) throw new Error(`${label}: invalid programGroup`);
-  if (!Array.isArray(item.categories) || !item.categories.length) throw new Error(`${label}: categories required`);
-  for (const category of item.categories) {
-    if (!CATEGORIES.has(category)) throw new Error(`${label}: unknown category ${category}`);
+
+  if (!GROUPS.has(item.programGroup)) {
+    throw new Error(`${label}: invalid programGroup`);
   }
+
+  if (!Array.isArray(item.categories) || !item.categories.length) {
+    throw new Error(`${label}: categories required`);
+  }
+
+  for (const category of item.categories) {
+    if (!CATEGORIES.has(category)) {
+      throw new Error(`${label}: unknown category ${category}`);
+    }
+  }
+
   for (const field of ['url', 'sourceUrl']) {
     let parsed;
-    try { parsed = new URL(item[field]); } catch { throw new Error(`${label}: invalid ${field}`); }
-    if (parsed.protocol !== 'https:') throw new Error(`${label}: ${field} must use HTTPS`);
+
+    try {
+      parsed = new URL(item[field]);
+    } catch {
+      throw new Error(`${label}: invalid ${field}`);
+    }
+
+    if (parsed.protocol !== 'https:') {
+      throw new Error(`${label}: ${field} must use HTTPS`);
+    }
   }
+
   for (const field of ['deadline', 'opens', 'verifiedOn']) {
-    if (!isIsoDate(item[field] ?? null)) throw new Error(`${label}: invalid ${field}`);
+    if (!isIsoDate(item[field] ?? null)) {
+      throw new Error(`${label}: invalid ${field}`);
+    }
   }
 }
 
-const records = JSON.parse(fs.readFileSync(sourcePath, 'utf8'));
-if (!Array.isArray(records)) throw new Error('Scholarship source must be an array');
+const sourceFiles = fs.readdirSync(dataDir)
+  .filter(name => /^scholarships\..+\.json$/.test(name))
+  .sort();
+
+if (!sourceFiles.length) {
+  throw new Error('No scholarship source files found');
+}
+
+const records = sourceFiles.flatMap(name => {
+  const parsed = JSON.parse(
+    fs.readFileSync(path.join(dataDir, name), 'utf8')
+  );
+
+  if (!Array.isArray(parsed)) {
+    throw new Error(`${name} must contain an array`);
+  }
+
+  return parsed;
+});
+
 const ids = new Set();
-records.forEach((record, index) => validate(record, index, ids));
+
+records.forEach((record, index) => {
+  validate(record, index, ids);
+});
 
 const today = new Date().toISOString().slice(0, 10);
-const active = records.filter(item => !item.deadline || item.deadline >= today || item.recurring);
+
+const active = records.filter(item =>
+  !item.deadline ||
+  item.deadline >= today ||
+  item.recurring
+);
+
 active.sort((a, b) => {
-  if (Boolean(a.featured) !== Boolean(b.featured)) return a.featured ? -1 : 1;
+  if (Boolean(a.featured) !== Boolean(b.featured)) {
+    return a.featured ? -1 : 1;
+  }
+
   if (!a.deadline && b.deadline) return 1;
   if (a.deadline && !b.deadline) return -1;
-  return (a.deadline || '').localeCompare(b.deadline || '') || a.title.localeCompare(b.title);
+
+  return (
+    (a.deadline || '').localeCompare(b.deadline || '') ||
+    a.title.localeCompare(b.title)
+  );
 });
 
 const feed = {
@@ -65,8 +135,24 @@ const feed = {
 };
 
 if (!checkOnly) {
-  fs.writeFileSync(outputPath, `${JSON.stringify(feed, null, 2)}\n`);
-  fs.copyFileSync(path.join(root, 'src', 'app.js'), path.join(root, 'public', 'app.js'));
-  fs.copyFileSync(path.join(root, 'src', 'styles.css'), path.join(root, 'public', 'styles.css'));
+  fs.writeFileSync(
+    outputPath,
+    `${JSON.stringify(feed, null, 2)}\n`
+  );
+
+  fs.copyFileSync(
+    path.join(root, 'src', 'app.js'),
+    path.join(root, 'public', 'app.js')
+  );
+
+  fs.copyFileSync(
+    path.join(root, 'src', 'styles.css'),
+    path.join(root, 'public', 'styles.css')
+  );
 }
-console.log(`${checkOnly ? 'Validated' : 'Built'} ${active.length} active scholarship records.`);
+
+console.log(
+  `${checkOnly ? 'Validated' : 'Built'} ` +
+  `${active.length} active scholarship records ` +
+  `from ${sourceFiles.length} source files.`
+);
