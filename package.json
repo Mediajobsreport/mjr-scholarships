@@ -1,0 +1,12 @@
+{
+  "name": "mjr-scholarships-fellowships",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Searchable scholarship and fellowship directory for Media Jobs Report",
+  "scripts": {
+    "build": "node scripts/build-scholarships.js",
+    "check": "node scripts/build-scholarships.js --check",
+    "serve": "npx --yes serve public"
+  },
+  "engines": { "node": ">=20" }
+}
