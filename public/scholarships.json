@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T15:10:29.644Z",
-  "count": 121,
+  "generatedAt": "2026-09-08T15:35:24.910Z",
+  "count": 133,
   "records": [
     {
       "id": "awm-ncta-scholarship-2027",
@@ -183,6 +183,37 @@
       "url": "https://www.jkcf.org/our-scholarships/college-scholarship-program/",
       "sourceUrl": "https://www.jkcf.org/our-scholarships/college-scholarship-program/how-to-apply/",
       "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "djnf-college-internships",
+      "title": "Dow Jones News Fund College Internship Program",
+      "provider": "Dow Jones News Fund",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Digital Media",
+        "Production & Multimedia"
+      ],
+      "award": "Paid internship plus $1,500 college scholarship",
+      "deadline": "2026-11-11",
+      "opens": null,
+      "educationLevels": [
+        "College",
+        "Graduate",
+        "Recent Graduate"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Paid summer journalism internships with specialized training and a scholarship for students who complete the program successfully.",
+      "eligibility": "Eligible college juniors, seniors, graduate students and recent graduates pursuing careers in journalism; requirements vary by internship track.",
+      "url": "https://www.dowjonesnewsfund.org/djnfinternships/",
+      "sourceUrl": "https://dowjonesnewsfund.org/participate/programs/",
+      "verifiedOn": "2026-09-08",
       "recurring": true,
       "featured": true
     },
@@ -484,6 +515,36 @@
       "featured": true
     },
     {
+      "id": "ire-chauncey-bailey-fellowship",
+      "title": "Chauncey Bailey Journalist of Color Investigative Reporting Fellowship",
+      "provider": "Investigative Reporters and Editors",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Digital Media",
+        "Diversity & Identity"
+      ],
+      "award": "Yearlong training, conference support, mentorship and data services",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "Early Career",
+        "Professional"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "A yearlong fellowship helping a journalist of color strengthen investigative skills and complete a community-focused reporting project.",
+      "eligibility": "Journalists of color interested in investigative reporting who meet the fellowship's current professional and project requirements.",
+      "url": "https://www.ire.org/training/fellowships-and-scholarships/ire-journalist-of-color-investigative-reporting-fellowship/",
+      "sourceUrl": "https://www.ire.org/training/fellowships-and-scholarships/",
+      "verifiedOn": "2026-09-08",
+      "recurring": true,
+      "featured": true
+    },
+    {
       "id": "uf-cjc-undergraduate-scholarships",
       "title": "College of Journalism and Communications Scholarships",
       "provider": "University of Florida College of Journalism and Communications",
@@ -598,6 +659,39 @@
       "url": "https://bmifoundation.org/by-application/dollypartonsongwritersaward",
       "sourceUrl": "https://bmifoundation.org/by-application/dollypartonsongwritersaward",
       "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "emma-bowen-fellows-program",
+      "title": "Emma Bowen Fellows Program",
+      "provider": "Emma Bowen Foundation",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Radio & Podcasting",
+        "Television & Video",
+        "Digital Media",
+        "Public Relations & Communications",
+        "Broadcast Engineering & Technology",
+        "Advertising & Media Sales"
+      ],
+      "award": "Multi-year paid summer internships, mentorship and professional development",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Multi-year paid fellowships placing students with leading media, entertainment and technology companies in business, content and innovation tracks.",
+      "eligibility": "Eligible college students interested in media, entertainment or technology who meet the program's age, enrollment and U.S. work-authorization requirements.",
+      "url": "https://www.emmabowenfoundation.org/ebf-fellows",
+      "sourceUrl": "https://www.emmabowenfoundation.org/ebf-fellows",
+      "verifiedOn": "2026-09-08",
       "recurring": true,
       "featured": true
     },
@@ -775,6 +869,37 @@
       "featured": true
     },
     {
+      "id": "ire-diversity-fellowships",
+      "title": "IRE Diversity Fellowships",
+      "provider": "Investigative Reporters and Editors",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Digital Media",
+        "Diversity & Identity"
+      ],
+      "award": "Conference registration, membership, lodging and travel assistance",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College",
+        "Graduate",
+        "Early Career"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Training and conference assistance intended to increase representation within investigative and data journalism.",
+      "eligibility": "Journalists, educators and students of color, LGBTQ+ applicants and applicants with disabilities who meet the current conference requirements.",
+      "url": "https://www.ire.org/training/fellowships-and-scholarships/",
+      "sourceUrl": "https://www.ire.org/training/fellowships-and-scholarships/",
+      "verifiedOn": "2026-09-08",
+      "recurring": true,
+      "featured": true
+    },
+    {
       "id": "jackie-robinson-foundation-2027",
       "title": "Jackie Robinson Foundation Scholarship",
       "provider": "Jackie Robinson Foundation",
@@ -802,6 +927,34 @@
       "url": "https://jackierobinson.org/apply/",
       "sourceUrl": "https://jackierobinson.org/scholarship/",
       "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "jea-journalist-of-year",
+      "title": "JEA Journalist of the Year Scholarships",
+      "provider": "Journalism Education Association",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Academic Achievement"
+      ],
+      "award": "$4,000 top award; up to five $1,200 finalist awards",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "National scholarships recognizing outstanding high-school journalists through reporting, writing, editing, broadcast, photojournalism and digital portfolios.",
+      "eligibility": "High-school seniors who win or are selected through their state Journalist of the Year competition and whose advisers are current JEA members.",
+      "url": "https://jea.org/awards/journalist-of-the-year/",
+      "sourceUrl": "https://jea.org/awards/journalist-of-the-year/",
+      "verifiedOn": "2026-09-08",
       "recurring": true,
       "featured": true
     },
@@ -1130,6 +1283,36 @@
       "url": "https://theemmys.tv/scholarships/",
       "sourceUrl": "https://theemmys.tv/scholarships/",
       "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": true
+    },
+    {
+      "id": "nppf-student-scholarships",
+      "title": "NPPF Student Photojournalism Scholarships",
+      "provider": "National Press Photographers Foundation",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Television & Video",
+        "Production & Multimedia"
+      ],
+      "award": "Eleven $2,500 scholarships",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College",
+        "Graduate"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "A common application for eleven scholarships supporting college photojournalists, visual storytellers and television news photographers.",
+      "eligibility": "Undergraduate and graduate students attending a four-year U.S. college or university; international students residing in the United States are eligible.",
+      "url": "https://nppf.org/student-scholarships/",
+      "sourceUrl": "https://nppf.org/student-scholarships/",
+      "verifiedOn": "2026-09-08",
       "recurring": true,
       "featured": true
     },
@@ -2280,6 +2463,64 @@
       "featured": false
     },
     {
+      "id": "jea-future-journalism-teacher",
+      "title": "Future Journalism Teacher Scholarships",
+      "provider": "Journalism Education Association",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News"
+      ],
+      "award": "Up to two $1,000 scholarships",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College",
+        "Graduate"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Scholarships encouraging future educators who intend to teach scholastic journalism.",
+      "eligibility": "College juniors, seniors or graduate students preparing to teach scholastic journalism who meet the current program requirements.",
+      "url": "https://jea.org/awards/future-journalism-teacher-scholarship/",
+      "sourceUrl": "https://jea.org/awards/future-journalism-teacher-scholarship/",
+      "verifiedOn": "2026-09-08",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "ire-gary-marx-scholarship",
+      "title": "Gary Marx Scholarship",
+      "provider": "Investigative Reporters and Editors",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Financial Need"
+      ],
+      "award": "Membership, conference registration, lodging and travel stipend",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College",
+        "Early Career"
+      ],
+      "states": [
+        "Nationwide",
+        "Illinois"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Professional-development scholarship helping college journalism students and early-career journalists attend an IRE conference.",
+      "eligibility": "U.S. college journalism students and journalists within five years of college graduation; preference is given to applicants from Illinois.",
+      "url": "https://www.ire.org/training/fellowships-and-scholarships/gary-marx-scholarship/",
+      "sourceUrl": "https://www.ire.org/training/fellowships-and-scholarships/",
+      "verifiedOn": "2026-09-08",
+      "recurring": true,
+      "featured": false
+    },
+    {
       "id": "ge-reagan-2027",
       "title": "GE-Reagan Foundation Scholarship Program",
       "provider": "Ronald Reagan Presidential Foundation and Institute",
@@ -2458,6 +2699,38 @@
       "featured": false
     },
     {
+      "id": "ire-james-richard-bennett-scholarship",
+      "title": "James Richard Bennett Scholarship",
+      "provider": "Investigative Reporters and Editors",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Geographic & State Residency"
+      ],
+      "award": "Assistance to attend an IRE or NICAR conference",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College",
+        "Graduate"
+      ],
+      "states": [
+        "Arkansas",
+        "Mississippi",
+        "Oklahoma",
+        "Louisiana"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Conference and training support for journalism students in four south-central states.",
+      "eligibility": "Journalism students in Arkansas, Mississippi, Oklahoma or Louisiana; University of Arkansas–Fayetteville students are excluded under the current rules.",
+      "url": "https://www.ire.org/training/fellowships-and-scholarships/",
+      "sourceUrl": "https://www.ire.org/training/fellowships-and-scholarships/",
+      "verifiedOn": "2026-09-08",
+      "recurring": true,
+      "featured": false
+    },
+    {
       "id": "minnesota-james-wychor-scholarship",
       "title": "James Wychor Scholarship",
       "provider": "Minnesota Broadcasters Association",
@@ -2485,6 +2758,36 @@
       "url": "https://minnesotabroadcasters.com/mba-scholarship",
       "sourceUrl": "https://minnesotabroadcasters.com/mba-scholarship",
       "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "ire-jennifer-leonard-scholarship",
+      "title": "Jennifer Leonard Scholarship",
+      "provider": "Investigative Reporters and Editors",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Financial Need",
+        "Diversity & Identity"
+      ],
+      "award": "Membership, conference registration, lodging and travel stipend",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "College",
+        "Early Career"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Conference scholarship supporting women of modest means who are entering investigative journalism.",
+      "eligibility": "Women of modest means who are college journalism students or within three years of college graduation; women of color and trans women are encouraged to apply.",
+      "url": "https://www.ire.org/training/fellowships-and-scholarships/jennifer-leonard-scholarship/",
+      "sourceUrl": "https://www.ire.org/training/fellowships-and-scholarships/",
+      "verifiedOn": "2026-09-08",
       "recurring": true,
       "featured": false
     },
@@ -3297,6 +3600,34 @@
       "featured": false
     },
     {
+      "id": "spj-jea-essay-contest",
+      "title": "SPJ/JEA High School Essay Contest",
+      "provider": "Society of Professional Journalists and Journalism Education Association",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Academic Achievement"
+      ],
+      "award": "$1,000 first place; $500 second place; $300 third place",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "High School"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Annual essay competition encouraging high-school students to examine journalism and press-freedom issues.",
+      "eligibility": "Students enrolled in grades 9–12 at U.S. public, private or home schools who meet the current contest rules.",
+      "url": "https://jea.org/awards/spj-jea-high-school-essay-contest/",
+      "sourceUrl": "https://jea.org/awards/spj-jea-high-school-essay-contest/",
+      "verifiedOn": "2026-09-08",
+      "recurring": true,
+      "featured": false
+    },
+    {
       "id": "prsa-pisinski",
       "title": "Stephen D. Pisinski Memorial Scholarship",
       "provider": "PRSA Foundation",
@@ -3543,6 +3874,38 @@
       "url": "https://whca.press/scholarships/",
       "sourceUrl": "https://whca.press/scholarships/",
       "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "women-in-film-fellowships",
+      "title": "WIF Fellowships",
+      "provider": "Women In Film",
+      "programGroup": "media",
+      "categories": [
+        "Television & Video",
+        "Production & Multimedia",
+        "Advertising & Media Sales",
+        "Diversity & Identity"
+      ],
+      "award": "Mentorship, career support and industry access; benefits vary",
+      "deadline": null,
+      "opens": null,
+      "educationLevels": [
+        "Early Career",
+        "Professional"
+      ],
+      "states": [
+        "Nationwide",
+        "California"
+      ],
+      "institutionSpecific": false,
+      "institution": null,
+      "summary": "Competitive fellowships for women working toward careers in film, television and screen media across creative, production, crew and business roles.",
+      "eligibility": "Experience requirements vary by discipline; applicants generally need a completed work sample or qualifying professional experience.",
+      "url": "https://wif.org/Fellowships/",
+      "sourceUrl": "https://wif.org/Fellowships/",
+      "verifiedOn": "2026-09-08",
       "recurring": true,
       "featured": false
     }
