@@ -6,7 +6,11 @@
   "scripts": {
     "build": "node scripts/build-scholarships.js",
     "check": "node scripts/build-scholarships.js --check",
+    "check:links": "node scripts/check-scholarship-links.js",
+    "check:links:offline": "node scripts/check-scholarship-links.js --offline",
     "serve": "npx --yes serve public"
   },
-  "engines": { "node": ">=20" }
+  "engines": {
+    "node": ">=20"
+  }
 }
