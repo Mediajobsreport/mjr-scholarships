@@ -1,0 +1,36 @@
+name: Verify scholarship links
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 13 * * 1'
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Validate scholarship data
+        run: npm run check
+
+      - name: Check official links
+        run: npm run check:links
+
+      - name: Upload verification report
+        uses: actions/upload-artifact@v4
+        with:
+          name: scholarship-link-report
+          path: reports/
+          retention-days: 30
