@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T14:31:48.786Z",
+  "generatedAt": "2026-09-08T15:10:29.644Z",
   "count": 121,
   "records": [
     {
@@ -623,9 +623,9 @@
       "institutionSpecific": false,
       "summary": "Scholarships encouraging education and careers in broadcast engineering and media technology.",
       "eligibility": "Students beginning or continuing broadcast-engineering education; individual award requirements vary.",
-      "url": "https://sbe.org/sections/education/scholarships.php",
-      "sourceUrl": "https://sbe.org/sections/education/scholarships.php",
-      "verifiedOn": "2026-09-07",
+      "url": "https://sbe.org/education/schools-scholarships/",
+      "sourceUrl": "https://sbe.org/education/schools-scholarships/",
+      "verifiedOn": "2026-09-08",
       "recurring": true,
       "featured": true
     },
@@ -1607,35 +1607,6 @@
       "featured": false
     },
     {
-      "id": "adc-shaheen",
-      "title": "Jack G. Shaheen Mass Communications Scholarship",
-      "provider": "American-Arab Anti-Discrimination Committee",
-      "programGroup": "media",
-      "categories": [
-        "Journalism & News",
-        "Television & Video",
-        "Radio & Podcasting",
-        "Digital Media"
-      ],
-      "award": "$5,000",
-      "deadline": "2027-04-12",
-      "educationLevels": [
-        "College",
-        "Graduate"
-      ],
-      "states": [
-        "Nationwide"
-      ],
-      "institutionSpecific": false,
-      "summary": "Scholarship recognizing Arab-American students pursuing media-related fields.",
-      "eligibility": "Eligible Arab-American students studying journalism, television, radio, film or related media disciplines.",
-      "url": "https://adc.org/shaheen-scholarship/",
-      "sourceUrl": "https://adc.org/shaheen-scholarship/",
-      "verifiedOn": "2026-09-07",
-      "recurring": true,
-      "featured": false
-    },
-    {
       "id": "aaf-adcamp",
       "title": "AdCamp Scholarship",
       "provider": "American Advertising Federation",
@@ -2166,6 +2137,34 @@
       "url": "https://recording-industry.mtsu.edu/scholarships/",
       "sourceUrl": "https://recording-industry.mtsu.edu/scholarships/",
       "verifiedOn": "2026-09-07",
+      "recurring": true,
+      "featured": false
+    },
+    {
+      "id": "adc-shaheen",
+      "title": "Dr. Jack G. Shaheen Media Scholarship",
+      "provider": "American-Arab Anti-Discrimination Committee",
+      "programGroup": "media",
+      "categories": [
+        "Journalism & News",
+        "Television & Video",
+        "Radio & Podcasting",
+        "Digital Media"
+      ],
+      "award": "$4,000 in the most recently published cycle",
+      "deadline": null,
+      "educationLevels": [
+        "College"
+      ],
+      "states": [
+        "Nationwide"
+      ],
+      "institutionSpecific": false,
+      "summary": "Scholarship recognizing Arab-American undergraduate students who excel in media studies.",
+      "eligibility": "Arab-American undergraduate students studying journalism, television, radio, film or another media-related field who meet the current application requirements.",
+      "url": "https://adc.org/apply-to-the-the-dr-jack-g-shaheen-media-scholarship/",
+      "sourceUrl": "https://adc.org/apply-to-the-the-dr-jack-g-shaheen-media-scholarship/",
+      "verifiedOn": "2026-09-08",
       "recurring": true,
       "featured": false
     },
