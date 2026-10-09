@@ -109,8 +109,7 @@ const today = new Date().toISOString().slice(0, 10);
 
 const active = records.filter(item =>
   !item.deadline ||
-  item.deadline >= today ||
-  item.recurring
+  item.deadline >= today
 );
 
 active.sort((a, b) => {
