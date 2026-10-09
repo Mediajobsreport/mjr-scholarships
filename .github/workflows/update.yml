@@ -2,6 +2,15 @@ name: Update and publish scholarship directory
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "data/**"
+      - "scripts/build-scholarships.js"
+      - "src/**"
+      - "package.json"
+      - ".github/workflows/update.yml"
   schedule:
     - cron: "17 8 * * *"
 
