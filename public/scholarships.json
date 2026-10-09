@@ -1,71 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T15:18:44.496Z",
-  "count": 133,
+  "generatedAt": "2026-10-09T19:59:15.776Z",
+  "count": 131,
   "records": [
-    {
-      "id": "awm-ncta-scholarship-2027",
-      "title": "AWM Foundation and NCTA Scholarship",
-      "provider": "Alliance for Women in Media Foundation and NCTA",
-      "programGroup": "media",
-      "categories": [
-        "Journalism & News",
-        "Radio & Podcasting",
-        "Television & Video",
-        "Digital Media",
-        "Advertising & Media Sales",
-        "Production & Multimedia",
-        "Diversity & Identity"
-      ],
-      "award": "$10,000 and a Gracies Leadership Awards ticket",
-      "deadline": "2026-09-25",
-      "opens": null,
-      "educationLevels": [
-        "College",
-        "Graduate"
-      ],
-      "states": [
-        "Nationwide"
-      ],
-      "institutionSpecific": false,
-      "institution": null,
-      "summary": "Scholarship for a female communications or media student who will create an original multimedia project.",
-      "eligibility": "Female undergraduate or graduate students attending an accredited U.S. college or university in 2027; media-career candidates are encouraged.",
-      "url": "https://allwomeninmedia.org/foundation/scholarships/",
-      "sourceUrl": "https://allwomeninmedia.org/foundation/scholarships/",
-      "verifiedOn": "2026-09-07",
-      "recurring": true,
-      "featured": true
-    },
-    {
-      "id": "coca-cola-2027",
-      "title": "Coca-Cola Scholars Program Scholarship",
-      "provider": "Coca-Cola Scholars Foundation",
-      "programGroup": "general",
-      "categories": [
-        "Any Major",
-        "Academic Achievement",
-        "Community Service"
-      ],
-      "award": "150 scholarships of $20,000",
-      "deadline": "2026-09-30",
-      "opens": "2026-08-03",
-      "educationLevels": [
-        "High School"
-      ],
-      "states": [
-        "Nationwide"
-      ],
-      "institutionSpecific": false,
-      "institution": null,
-      "summary": "National scholarship recognizing graduating seniors for leadership, academics and service.",
-      "eligibility": "Eligible U.S. students graduating during the 2026–27 academic year who meet official requirements.",
-      "url": "https://www.coca-colascholarsfoundation.org/apply/",
-      "sourceUrl": "https://www.coca-colascholarsfoundation.org/apply/",
-      "verifiedOn": "2026-09-07",
-      "recurring": true,
-      "featured": true
-    },
     {
       "id": "bea-2027-28",
       "title": "Scholarships in Broadcasting & Electronic Media",
