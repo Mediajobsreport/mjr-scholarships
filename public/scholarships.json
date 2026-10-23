@@ -1,40 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T14:44:21.743Z",
-  "count": 130,
+  "generatedAt": "2026-10-23T13:27:32.610Z",
+  "count": 129,
   "records": [
-    {
-      "id": "rtdna-2026",
-      "title": "RTDNA Scholarships & Fellowships",
-      "provider": "RTDNA Foundation",
-      "programGroup": "media",
-      "categories": [
-        "Journalism & News",
-        "Radio & Podcasting",
-        "Television & Video",
-        "Digital Media"
-      ],
-      "award": "13 scholarships and 3 fellowships; amounts vary",
-      "deadline": "2026-10-22",
-      "opens": "2026-09-09",
-      "educationLevels": [
-        "College",
-        "Graduate",
-        "Early Career"
-      ],
-      "states": [
-        "Nationwide"
-      ],
-      "institutionSpecific": false,
-      "institution": null,
-      "summary": "Financial awards for journalism students and early-career professionals pursuing electronic and digital journalism.",
-      "eligibility": "Eligibility varies by award; applicants may apply for only one RTDNA opportunity per cycle.",
-      "url": "https://www.rtdna.org/scholarships-and-fellowships",
-      "sourceUrl": "https://www.rtdna.org/scholarships-and-fellowships",
-      "verifiedOn": "2026-09-07",
-      "recurring": true,
-      "featured": true
-    },
     {
       "id": "wba-foundation-2026",
       "title": "Student Scholarship Program",
