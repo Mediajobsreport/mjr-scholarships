@@ -1,36 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T14:32:05.578Z",
-  "count": 129,
+  "generatedAt": "2026-11-01T15:09:45.499Z",
+  "count": 127,
   "records": [
-    {
-      "id": "wba-foundation-2026",
-      "title": "Student Scholarship Program",
-      "provider": "Wisconsin Broadcasters Association Foundation",
-      "programGroup": "media",
-      "categories": [
-        "Radio & Podcasting",
-        "Television & Video",
-        "Production & Multimedia"
-      ],
-      "award": "Three $2,500 awards and one $1,500 award",
-      "deadline": "2026-10-31",
-      "educationLevels": [
-        "College",
-        "Vocational"
-      ],
-      "states": [
-        "Wisconsin"
-      ],
-      "institutionSpecific": false,
-      "summary": "Scholarships for students enrolled in media-related education programs in Wisconsin.",
-      "eligibility": "Eligible students at Wisconsin colleges, universities, media schools and technical colleges.",
-      "url": "https://www.wbafoundation.org/scholarships-grants/student-scholarship-program/",
-      "sourceUrl": "https://www.wbafoundation.org/scholarships-grants/student-scholarship-program/",
-      "verifiedOn": "2026-09-07",
-      "recurring": true,
-      "featured": true
-    },
     {
       "id": "cooke-college-scholarship-2027",
       "title": "Cooke College Scholarship Program",
@@ -1477,35 +1449,6 @@
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": true
-    },
-    {
-      "id": "arkansas-broadcasters-uark-scholarship",
-      "title": "Arkansas Broadcasters Association Scholarship Fund",
-      "provider": "Arkansas Broadcasters Association and University of Arkansas",
-      "programGroup": "media",
-      "categories": [
-        "Journalism & News",
-        "Radio & Podcasting",
-        "Television & Video"
-      ],
-      "award": "Varies",
-      "deadline": "2026-10-31",
-      "opens": null,
-      "educationLevels": [
-        "College"
-      ],
-      "states": [
-        "Arkansas"
-      ],
-      "institutionSpecific": true,
-      "institution": "University of Arkansas",
-      "summary": "Scholarship for University of Arkansas journalism majors interested in radio and television.",
-      "eligibility": "Eligible University of Arkansas journalism majors demonstrating interest in broadcasting, financial need, character and scholarship.",
-      "url": "https://uark.academicworks.com/opportunities/33343",
-      "sourceUrl": "https://uark.academicworks.com/opportunities/33343",
-      "verifiedOn": "2026-09-07",
-      "recurring": true,
-      "featured": false
     },
     {
       "id": "elks-mvs-2027",
