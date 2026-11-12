@@ -1,68 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T16:10:53.951Z",
-  "count": 127,
+  "generatedAt": "2026-11-12T16:49:00.020Z",
+  "count": 125,
   "records": [
-    {
-      "id": "cooke-college-scholarship-2027",
-      "title": "Cooke College Scholarship Program",
-      "provider": "Jack Kent Cooke Foundation",
-      "programGroup": "general",
-      "categories": [
-        "Any Major",
-        "Academic Achievement",
-        "Financial Need"
-      ],
-      "award": "Up to $55,000 per year",
-      "deadline": "2026-11-11",
-      "opens": "2026-08-19",
-      "educationLevels": [
-        "High School"
-      ],
-      "states": [
-        "Nationwide"
-      ],
-      "institutionSpecific": false,
-      "institution": null,
-      "summary": "Renewable undergraduate scholarship for high-achieving high school seniors with financial need.",
-      "eligibility": "U.S. high school seniors planning full-time enrollment at an accredited four-year college who meet GPA and financial-need requirements.",
-      "url": "https://www.jkcf.org/our-scholarships/college-scholarship-program/",
-      "sourceUrl": "https://www.jkcf.org/our-scholarships/college-scholarship-program/how-to-apply/",
-      "verifiedOn": "2026-09-07",
-      "recurring": true,
-      "featured": true
-    },
-    {
-      "id": "djnf-college-internships",
-      "title": "Dow Jones News Fund College Internship Program",
-      "provider": "Dow Jones News Fund",
-      "programGroup": "media",
-      "categories": [
-        "Journalism & News",
-        "Digital Media",
-        "Production & Multimedia"
-      ],
-      "award": "Paid internship plus $1,500 college scholarship",
-      "deadline": "2026-11-11",
-      "opens": null,
-      "educationLevels": [
-        "College",
-        "Graduate",
-        "Recent Graduate"
-      ],
-      "states": [
-        "Nationwide"
-      ],
-      "institutionSpecific": false,
-      "institution": null,
-      "summary": "Paid summer journalism internships with specialized training and a scholarship for students who complete the program successfully.",
-      "eligibility": "Eligible college juniors, seniors, graduate students and recent graduates pursuing careers in journalism; requirements vary by internship track.",
-      "url": "https://www.dowjonesnewsfund.org/djnfinternships/",
-      "sourceUrl": "https://dowjonesnewsfund.org/participate/programs/",
-      "verifiedOn": "2026-09-08",
-      "recurring": true,
-      "featured": true
-    },
     {
       "id": "hagan-scholarship-2027",
       "title": "Hagan Scholarship",
