@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T16:49:00.020Z",
-  "count": 125,
+  "generatedAt": "2026-11-13T16:25:20.275Z",
+  "count": 124,
   "records": [
     {
       "id": "hagan-scholarship-2027",
@@ -1389,36 +1389,6 @@
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": true
-    },
-    {
-      "id": "elks-mvs-2027",
-      "title": "Elks Most Valuable Student Scholarship",
-      "provider": "Elks National Foundation",
-      "programGroup": "general",
-      "categories": [
-        "Any Major",
-        "Academic Achievement",
-        "Financial Need",
-        "Community Service"
-      ],
-      "award": "500 awards ranging from $4,000 to $30,000",
-      "deadline": "2026-11-12",
-      "opens": "2026-08-01",
-      "educationLevels": [
-        "High School"
-      ],
-      "states": [
-        "Nationwide"
-      ],
-      "institutionSpecific": false,
-      "institution": null,
-      "summary": "National competition for high school seniors judged on scholarship, leadership and financial need.",
-      "eligibility": "U.S. citizen high school seniors planning full-time study toward a four-year degree at a U.S. college or university.",
-      "url": "https://www.elks.org/scholars/scholarships/mvs.cfm",
-      "sourceUrl": "https://www.elks.org/scholars/scholarships/mvs.cfm",
-      "verifiedOn": "2026-09-07",
-      "recurring": true,
-      "featured": false
     },
     {
       "id": "point-flagship-2027",
