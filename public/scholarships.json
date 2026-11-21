@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T16:58:10.602Z",
-  "count": 124,
+  "generatedAt": "2026-11-21T16:09:30.960Z",
+  "count": 123,
   "records": [
     {
       "id": "hagan-scholarship-2027",
@@ -1389,39 +1389,6 @@
       "verifiedOn": "2026-09-07",
       "recurring": true,
       "featured": true
-    },
-    {
-      "id": "point-flagship-2027",
-      "title": "Point Foundation Flagship Scholarship",
-      "provider": "Point Foundation",
-      "programGroup": "general",
-      "categories": [
-        "Any Major",
-        "Financial Need",
-        "Community Service",
-        "Diversity & Identity"
-      ],
-      "award": "Need-based financial award renewable for up to four years",
-      "deadline": "2026-11-20",
-      "opens": "2026-09-10",
-      "educationLevels": [
-        "High School",
-        "College",
-        "Graduate",
-        "Professional"
-      ],
-      "states": [
-        "Nationwide"
-      ],
-      "institutionSpecific": false,
-      "institution": null,
-      "summary": "Financial support, leadership development and community resources for LGBTQ+ and ally students.",
-      "eligibility": "Students connected and committed to the LGBTQ+ and ally community who meet GPA and full-time enrollment requirements.",
-      "url": "https://pointfoundation.org/scholarships/flagship",
-      "sourceUrl": "https://pointfoundation.org/scholarships/flagship",
-      "verifiedOn": "2026-09-07",
-      "recurring": true,
-      "featured": false
     },
     {
       "id": "burger-king-scholars-2027",
